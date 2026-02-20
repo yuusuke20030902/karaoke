@@ -1,32 +1,118 @@
-<label for="keywordInput">合言葉：</label>
-<input type="text" id="keywordInput" placeholder="例：こんにちは">
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>謎解きゲーム</title>
+  <style>
+    /* ===============================
+       ★追加・変更したデザイン設定
+    ================================ */
+    body {
+      background-color: #111; /* 背景を真っ黒より少しだけ柔らかい黒に */
+      color: #ffffff;         /* 全体の文字色を白に */
+      font-family: 'Meiryo', sans-serif; /* フォントをメイリオに指定 */
+      padding: 20px;          /* 画面の端に少し余白を作ります */
+    }
 
-<p id="resultMessage" style="color: red; font-weight: bold;"></p>
-
-<script>
-  const inputElement = document.getElementById('keywordInput');
-  const resultMessage = document.getElementById('resultMessage');
-
-  // 変更点1：'input' ではなく 'keydown'（キーが押された時）を監視します
-  // 変更点2：(event) という引数（押されたキーの情報）を受け取ります
-  inputElement.addEventListener('keydown', (event) => {
-    
-    // 変更点3：押されたキーが「Enter」かどうかをチェックする
-    if (event.key === 'Enter') {
-      
-      // ここから先は先ほどと同じ「キーワードのチェック」です
-      const text = inputElement.value;
-
-      if (text === 'こんにちは') {
-        resultMessage.textContent = 'ご挨拶ありがとうございます！';
-        
-      } else if (text === 'シークレット') {
-        resultMessage.textContent = '🎉 秘密のメッセージを発見しました！';
-        
-      } else {
-        // エンターを押して間違っていた場合のメッセージに変えました
-        resultMessage.textContent = 'キーワードが違います。';
+    /* フワッと出現させるアニメーションの設計図 */
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
       }
     }
-  });
-</script>
+
+    .fade-in {
+      animation: fadeIn 0.8s ease forwards;
+    }
+
+    .hidden-stage {
+      display: none;
+    }
+
+    /* 区切り線（hr）も暗い背景に合わせて少し暗くします */
+    hr {
+      border-color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="stage1">
+    <h3>第1の謎</h3>
+    <p>赤い果物といえば？（3文字）</p>
+    <form id="form1">
+      <input type="text" id="input1" placeholder="答えを入力">
+      <button type="submit">解答する</button>
+    </form>
+    <p id="error1" style="color: #ff6666; font-size: 0.9em;"></p>
+  </div>
+
+
+  <div id="stage2" class="hidden-stage">
+    <hr>
+    <h3>第2の謎</h3>
+    <p>正解！では、次は「ご」から始まる動物といえば？（3文字）</p>
+    <form id="form2">
+      <input type="text" id="input2" placeholder="答えを入力">
+      <button type="submit">解答する</button>
+    </form>
+    <p id="error2" style="color: #ff6666; font-size: 0.9em;"></p>
+  </div>
+
+
+  <div id="stage3" class="hidden-stage">
+    <hr>
+    <h3 style="color: #4db8ff;">クリア！</h3>
+    <p>🎉 すべての謎を解き明かしました！おめでとうございます！</p>
+  </div>
+
+
+  <script>
+    // --- 第1ステージ ---
+    const form1 = document.getElementById('form1');
+    const input1 = document.getElementById('input1');
+    const error1 = document.getElementById('error1');
+    const stage2 = document.getElementById('stage2');
+
+    form1.addEventListener('submit', (event) => {
+      event.preventDefault();
+      if (input1.value === 'りんご') {
+        error1.textContent = '';
+        input1.disabled = true;
+        form1.querySelector('button').disabled = true;
+        
+        stage2.style.display = 'block';
+        stage2.classList.add('fade-in');
+      } else {
+        error1.textContent = '不正解です。もう一度考えてみよう！';
+      }
+    });
+
+    // --- 第2ステージ ---
+    const form2 = document.getElementById('form2');
+    const input2 = document.getElementById('input2');
+    const error2 = document.getElementById('error2');
+    const stage3 = document.getElementById('stage3');
+
+    form2.addEventListener('submit', (event) => {
+      event.preventDefault();
+      if (input2.value === 'ごりら') {
+        error2.textContent = '';
+        input2.disabled = true;
+        form2.querySelector('button').disabled = true;
+        
+        stage3.style.display = 'block';
+        stage3.classList.add('fade-in');
+      } else {
+        error2.textContent = '不正解です。ヒント：胸を叩く動物です。';
+      }
+    });
+  </script>
+
+</body>
+</html>
