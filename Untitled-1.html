@@ -1,0 +1,32 @@
+<label for="keywordInput">合言葉：</label>
+<input type="text" id="keywordInput" placeholder="例：こんにちは">
+
+<p id="resultMessage" style="color: red; font-weight: bold;"></p>
+
+<script>
+  const inputElement = document.getElementById('keywordInput');
+  const resultMessage = document.getElementById('resultMessage');
+
+  // 変更点1：'input' ではなく 'keydown'（キーが押された時）を監視します
+  // 変更点2：(event) という引数（押されたキーの情報）を受け取ります
+  inputElement.addEventListener('keydown', (event) => {
+    
+    // 変更点3：押されたキーが「Enter」かどうかをチェックする
+    if (event.key === 'Enter') {
+      
+      // ここから先は先ほどと同じ「キーワードのチェック」です
+      const text = inputElement.value;
+
+      if (text === 'こんにちは') {
+        resultMessage.textContent = 'ご挨拶ありがとうございます！';
+        
+      } else if (text === 'シークレット') {
+        resultMessage.textContent = '🎉 秘密のメッセージを発見しました！';
+        
+      } else {
+        // エンターを押して間違っていた場合のメッセージに変えました
+        resultMessage.textContent = 'キーワードが違います。';
+      }
+    }
+  });
+</script>
