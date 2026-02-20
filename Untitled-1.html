@@ -2,41 +2,76 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>謎解きゲーム</title>
+  
   <style>
-    /* ===============================
-       ★追加・変更したデザイン設定
-    ================================ */
+    /* 画面の幅の計算をズレにくくするおまじない */
+    * {
+      box-sizing: border-box;
+    }
+
+    /* 全体の設定 */
     body {
-      background-color: #111; /* 背景を真っ黒より少しだけ柔らかい黒に */
-      color: #ffffff;         /* 全体の文字色を白に */
-      font-family: 'Meiryo', sans-serif; /* フォントをメイリオに指定 */
-      padding: 20px;          /* 画面の端に少し余白を作ります */
+      background-color: #111;
+      color: #ffffff;
+      font-family: 'Meiryo', sans-serif;
+      padding: 20px;
+      font-size: 16px; /* スマホでタップした時の自動ズームを防ぐため16pxにします */
     }
 
-    /* フワッと出現させるアニメーションの設計図 */
+    /* ===============================
+       ★入力欄とボタンをスマホ向けに大きく・おしゃれに
+    ================================ */
+    input[type="text"], button {
+      width: 100%;          /* スマホでは横幅いっぱいに広げる */
+      max-width: 400px;     /* PCで見た時に広がりすぎないように最大幅を設定 */
+      padding: 15px;        /* 指でタップしやすいように内側に余白を作る */
+      margin-bottom: 10px;  /* 下に少し隙間を空ける */
+      font-size: 16px;      /* 文字を大きめに */
+      font-family: 'Meiryo', sans-serif;
+      border-radius: 6px;   /* 角を少し丸くして現代風に */
+    }
+
+    /* 入力欄のデザイン（黒背景に合うように） */
+    input[type="text"] {
+      background-color: #222; /* 真っ黒より少し明るい色 */
+      color: #fff;            /* 入力する文字色は白 */
+      border: 1px solid #555; /* 枠線は目立ちすぎないグレー */
+    }
+
+    /* ボタンのデザイン（押したくなるように目立たせる） */
+    button {
+      background-color: #4db8ff; /* 鮮やかな水色 */
+      color: #000;               /* ボタンの文字は黒で読みやすく */
+      font-weight: bold;
+      border: none;
+      cursor: pointer;           /* PCでマウスを乗せた時に指マークにする */
+    }
+
+    /* ボタンを押せない状態（クリア後）のデザイン */
+    button:disabled {
+      background-color: #555;
+      color: #888;
+      cursor: not-allowed;
+    }
+
+    /* ===============================
+       アニメーションなどの設定（変更なし）
+    ================================ */
     @keyframes fadeIn {
-      0% {
-        opacity: 0;
-        transform: translateY(-10px);
-      }
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
+      0% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 1; transform: translateY(0); }
     }
-
     .fade-in {
       animation: fadeIn 0.8s ease forwards;
     }
-
     .hidden-stage {
       display: none;
     }
-
-    /* 区切り線（hr）も暗い背景に合わせて少し暗くします */
     hr {
       border-color: #333;
+      margin: 30px 0;
     }
   </style>
 </head>
@@ -52,7 +87,6 @@
     <p id="error1" style="color: #ff6666; font-size: 0.9em;"></p>
   </div>
 
-
   <div id="stage2" class="hidden-stage">
     <hr>
     <h3>第2の謎</h3>
@@ -64,16 +98,13 @@
     <p id="error2" style="color: #ff6666; font-size: 0.9em;"></p>
   </div>
 
-
   <div id="stage3" class="hidden-stage">
     <hr>
     <h3 style="color: #4db8ff;">クリア！</h3>
     <p>🎉 すべての謎を解き明かしました！おめでとうございます！</p>
   </div>
 
-
   <script>
-    // --- 第1ステージ ---
     const form1 = document.getElementById('form1');
     const input1 = document.getElementById('input1');
     const error1 = document.getElementById('error1');
@@ -93,7 +124,6 @@
       }
     });
 
-    // --- 第2ステージ ---
     const form2 = document.getElementById('form2');
     const input2 = document.getElementById('input2');
     const error2 = document.getElementById('error2');
