@@ -6,9 +6,7 @@
   a {
     color: #8ab4f8 !important;
   }
-</style>
-
-# 目次
+</style># 目次
 - [#仮面ライダー](#仮面ライダー)
 - [#スーパー戦隊](#スーパー戦隊)
 - [#ウルトラマン](#ウルトラマン)
@@ -28,6 +26,7 @@
 - [#あいつら](#あいつら)
 - [#その他](#その他)
 # 曲一覧
+
 ## 仮面ライダー
  / [JOY](https://www.joysound.com/web/search/cross?keyword=仮面ライダー) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=仮面ライダー) / [#目次](#目次)
 - 仮面ライダークウガ! [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=仮面ライダークウガ!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=仮面ライダークウガ!)
@@ -111,6 +110,7 @@
 - Shake it off [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=Shake%20it%20off) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Shake%20it%20off)
 - VISIONS [-5] / [JOY](https://www.joysound.com/web/search/cross?keyword=VISIONS) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=VISIONS)
 - PLAY BACK [-3] / [JOY](https://www.joysound.com/web/search/cross?keyword=PLAY%20BACK) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=PLAY%20BACK)
+
 ## [スーパー戦隊](https://dic.pixiv.net/a/オープニングナレーション%28スーパー戦隊%29#h3_11)
  / [JOY](https://www.joysound.com/web/search/cross?keyword=スーパー戦隊) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=スーパー戦隊) / [#目次](#目次)
 - ハリケンジャー参上! [-2] / [JOY](https://www.joysound.com/web/search/cross?keyword=ハリケンジャー参上!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ハリケンジャー参上!)
@@ -144,6 +144,7 @@
 - 愛が正義 [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=愛が正義) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=愛が正義)
 - YOU BE ONE WINNER [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=YOU%20BE%20ONE%20WINNER) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=YOU%20BE%20ONE%20WINNER)
 - VIBES×VIBES [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=VIBES×VIBES) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=VIBES×VIBES)
+
 ## ウルトラマン
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ウルトラマン) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ウルトラマン) / [#目次](#目次)
 - TAKE ME HIGHER [-3] / [JOY](https://www.joysound.com/web/search/cross?keyword=TAKE%20ME%20HIGHER) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=TAKE%20ME%20HIGHER)
@@ -165,11 +166,13 @@
 - arc jump'n to the sky [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=arc%20jump'n%20to%20the%20sky) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=arc%20jump'n%20to%20the%20sky)
 - BRIGHT EYES [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=BRIGHT%20EYES) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=BRIGHT%20EYES)
 - We'll be one! [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=We'll%20be%20one!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=We'll%20be%20one!)
+
 ## ヒーロー
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ヒーロー) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ヒーロー) / [#目次](#目次)
 - レスキューファイアー [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=レスキューファイアー) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=レスキューファイアー)
 - 宇宙刑事ギャバン [原] / [JOY](https://www.joysound.com/web/search/cross?keyword=宇宙刑事ギャバン) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=宇宙刑事ギャバン)
 - LOVE IS THE STRONGEST [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=LOVE%20IS%20THE%20STRONGEST) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=LOVE%20IS%20THE%20STRONGEST)
+
 ## 新海監督
  / [JOY](https://www.joysound.com/web/search/cross?keyword=新海監督) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=新海監督) / [#目次](#目次)
 - 夢灯籠 [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=夢灯籠) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=夢灯籠)
@@ -185,6 +188,7 @@
 - すずめ feat.十明 [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=すずめ%20feat.十明) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=すずめ%20feat.十明)
 - One more time,One more chance / [JOY](https://www.joysound.com/web/search/cross?keyword=One%20more%20time,One%20more%20chance) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=One%20more%20time,One%20more%20chance)
 - 1991 / [JOY](https://www.joysound.com/web/search/cross?keyword=1991) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=1991)
+
 ## 進撃の巨人
  / [JOY](https://www.joysound.com/web/search/cross?keyword=進撃の巨人) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=進撃の巨人) / [#目次](#目次)
 - [紅蓮の弓矢](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#紅蓮の弓矢) [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=紅蓮の弓矢) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=紅蓮の弓矢)
@@ -210,6 +214,7 @@
 - Bauklotze [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Bauklotze) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Bauklotze)
 - Call your name [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Call%20your%20name) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Call%20your%20name)
 - attack ON titan [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=attack%20ON%20titan) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=attack%20ON%20titan)
+
 ## けものフレンズ
  / [JOY](https://www.joysound.com/web/search/cross?keyword=けものフレンズ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=けものフレンズ) / [#目次](#目次)
 - 乗ってけ!ジャパリビート [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=乗ってけ!ジャパリビート) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=乗ってけ!ジャパリビート)
@@ -225,6 +230,7 @@
 - わたしたちのストーリー [+5] / [JOY](https://www.joysound.com/web/search/cross?keyword=わたしたちのストーリー) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=わたしたちのストーリー)
 - ぼくのフレンド [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=ぼくのフレンド) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ぼくのフレンド) / 映像JOYのみ
 - ようこそジャパリパークへ [+5] / [JOY](https://www.joysound.com/web/search/cross?keyword=ようこそジャパリパークへ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ようこそジャパリパークへ)
+
 ## ウマ娘
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ウマ娘) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ウマ娘) / [#目次](#目次)
 - Make debut! [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=Make%20debut!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Make%20debut!)
@@ -242,6 +248,7 @@
 - ぴょいっと♪はれるや! / [JOY](https://www.joysound.com/web/search/cross?keyword=ぴょいっと♪はれるや!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ぴょいっと♪はれるや!)
 - うまぴょい伝説 [+2] / [JOY](https://www.joysound.com/web/search/cross?keyword=うまぴょい伝説) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=うまぴょい伝説)
 - [Umapyoi Legend (English ver.)](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#umapyoi-legend-english-ver) / [JOY](https://www.joysound.com/web/search/cross?keyword=Umapyoi%20Legend%20(English%20ver.)) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Umapyoi%20Legend%20(English%20ver.)) / 画像
+
 ## [ONE PIECE](https://dic.pixiv.net/a/アニワン#h3_4)
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ONE%20PIECE) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ONE%20PIECE) / [#目次](#目次)
 - [ウィーアー](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#ウィーアー) [原] / [JOY](https://www.joysound.com/web/search/cross?keyword=ウィーアー) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ウィーアー)
@@ -258,6 +265,7 @@
 - [風のゆくえ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#ウィーゴー) [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=風のゆくえ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=風のゆくえ)
 - [あーーっす!](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#ウィーゴー) [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=あーーっす!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=あーーっす!)
 - [天使と悪魔](https://qiita.com/yuusuke20030902/private/104076669491b1ec7232#ウィーゴー) [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=天使と悪魔) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=天使と悪魔)
+
 ## アニソン
  / [JOY](https://www.joysound.com/web/search/cross?keyword=アニソン) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=アニソン) / [#目次](#目次)
 - Bのリベンジ [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Bのリベンジ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Bのリベンジ)
@@ -334,6 +342,7 @@
 - もってけ!セーラーふく [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=もってけ!セーラーふく) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=もってけ!セーラーふく)
 - Daydream cafe [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=Daydream%20cafe) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Daydream%20cafe)
 - Sparkling Daydream [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=Sparkling%20Daydream) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Sparkling%20Daydream)
+
 ## 東方
  / [JOY](https://www.joysound.com/web/search/cross?keyword=東方) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=東方) / [#目次](#目次)
 - 星色夜空 [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=星色夜空) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=星色夜空) / 曲DAMのみ
@@ -352,12 +361,14 @@
 - 華鳥風月 [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=華鳥風月) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=華鳥風月)
 - 無邪気さへの上書き [-3] / [JOY](https://www.joysound.com/web/search/cross?keyword=無邪気さへの上書き) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=無邪気さへの上書き)
 - カフカなる群青へ [-6] / [JOY](https://www.joysound.com/web/search/cross?keyword=カフカなる群青へ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=カフカなる群青へ)
+
 ## ボカロ
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ボカロ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ボカロ) / [#目次](#目次)
 - ラグトレイン / [JOY](https://www.joysound.com/web/search/cross?keyword=ラグトレイン) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ラグトレイン)
 - シャルル / [JOY](https://www.joysound.com/web/search/cross?keyword=シャルル) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=シャルル)
 - グッバイ宣言 [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=グッバイ宣言) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=グッバイ宣言)
 - ダダダダ天使 [+3] / [JOY](https://www.joysound.com/web/search/cross?keyword=ダダダダ天使) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ダダダダ天使)
+
 ## ホロライブ
  / [JOY](https://www.joysound.com/web/search/cross?keyword=ホロライブ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ホロライブ) / [#目次](#目次)
 - ビビデバ [+4,むずい] / [JOY](https://www.joysound.com/web/search/cross?keyword=ビビデバ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ビビデバ)
@@ -378,12 +389,14 @@
 - うい麦畑でつかまえて [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=うい麦畑でつかまえて) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=うい麦畑でつかまえて)
 - ういこうせん [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=ういこうせん) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ういこうせん)
 - お返事まだカナ？おじさん構文！ [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=お返事まだカナ？おじさん構文！) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=お返事まだカナ？おじさん構文！)
+
 ## 嵐
  / [JOY](https://www.joysound.com/web/search/cross?keyword=嵐) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=嵐) / [#目次](#目次)
 - Happiness [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Happiness) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Happiness)
 - Monster [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Monster) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Monster)
 - One Love [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=One%20Love) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=One%20Love)
 - Love so sweet [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=Love%20so%20sweet) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Love%20so%20sweet)
+
 ## Mrs. GREEN APPLE
  / [JOY](https://www.joysound.com/web/search/cross?keyword=Mrs.%20GREEN%20APPLE) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Mrs.%20GREEN%20APPLE) / [#目次](#目次)
 - 夏の影 [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=夏の影) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=夏の影)
@@ -392,6 +405,7 @@
 - ケセラセラ / [JOY](https://www.joysound.com/web/search/cross?keyword=ケセラセラ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ケセラセラ)
 - コロンブス [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=コロンブス) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=コロンブス)
 - Magic [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=Magic) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=Magic)
+
 ## 往年
  / [JOY](https://www.joysound.com/web/search/cross?keyword=往年) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=往年) / [#目次](#目次)
 - ロマンスの神様 [+4] / [JOY](https://www.joysound.com/web/search/cross?keyword=ロマンスの神様) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ロマンスの神様)
@@ -410,6 +424,7 @@
 - 全力少年 [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=全力少年) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=全力少年)
 - 空と君のあいだに [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=空と君のあいだに) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=空と君のあいだに)
 - さくらんぼ / [JOY](https://www.joysound.com/web/search/cross?keyword=さくらんぼ) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=さくらんぼ)
+
 ## あいつら
  / [JOY](https://www.joysound.com/web/search/cross?keyword=あいつら) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=あいつら) / [#目次](#目次)
 - ray [+5] / [JOY](https://www.joysound.com/web/search/cross?keyword=ray) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ray) / 映像DAMのみ、カグヤは原のオク上
@@ -434,6 +449,7 @@
 - ピュアいんざワールド [-4] / [JOY](https://www.joysound.com/web/search/cross?keyword=ピュアいんざワールド) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=ピュアいんざワールド)
 - 好きすぎて滅! [0] / [JOY](https://www.joysound.com/web/search/cross?keyword=好きすぎて滅!) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=好きすぎて滅!)
 - カリスマックス / [JOY](https://www.joysound.com/web/search/cross?keyword=カリスマックス) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=カリスマックス)
+
 ## その他
  / [JOY](https://www.joysound.com/web/search/cross?keyword=その他) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=その他) / [#目次](#目次)
 - 花 / [JOY](https://www.joysound.com/web/search/cross?keyword=花) / [DAM](https://www.clubdam.com/karaokesearch/?keyword=花)
