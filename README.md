@@ -2,7 +2,7 @@
      :root {
        color-scheme: dark;
      }
-   </style>
+</style>
 
 # 目次
 - [#仮面ライダー](#仮面ライダー)
