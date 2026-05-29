@@ -1,11 +1,14 @@
+<style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 - [joy](https://yuusuke20030902.github.io/karaoke/joy)
 - [dam](https://yuusuke20030902.github.io/karaoke/dam)
 - [git](https://github.com/yuusuke20030902/karaoke)
+- 
 - [JOY](https://www.joysound.com/web/search)
 - [DAM](https://www.clubdam.com/karaokesearch/)
 - [utasuki](https://utasuki.joysound.com/utasuki/)
 - [damtomo](https://www.clubdam.com/app/damtomo/MyPage.do)
 - [karakanbattle](https://kkstb.com/)
+- 
 - [yuraku](https://karaokekan.jp/shop/detail/175)
 - [kajimachi](https://shop.joysound.com/shop/joysound-hamamatsukajimachi/?from=gmb#tab-price)
 - [rauone](https://www.round1.co.jp/shop/ryokin/sizuoka-hamamatsu.html#fragment-2)
