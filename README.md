@@ -2,6 +2,7 @@
 - [joy](https://yuusuke20030902.github.io/karaoke/joy)
 - [dam](https://yuusuke20030902.github.io/karaoke/dam)
 - [git](https://github.com/yuusuke20030902/karaoke)
+- [music](https://music.youtube.com)
 - 
 - [JOY](https://www.joysound.com/web/search)
 - [DAM](https://www.clubdam.com/karaokesearch/)
