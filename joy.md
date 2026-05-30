@@ -25,7 +25,7 @@
 -  [仮面ライダークウガ!](intent://navigation?naviGrpId=24373&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [原-6] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダークウガ!)
 
 **アギト** / [検索](https://www.joysound.com/web/search/cross?keyword=アギト)
--  [仮面ライダーAGITO](intent://navigation?naviGrpId=26635&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [原+2] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーAGITO)
+-  [仮面ライダーAGITO](intent://navigation?naviGrpId=25124&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [原+2] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーAGITO)
 -  [BELIEVE YOURSELF](intent://navigation?naviGrpId=55972&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=BELIEVE%20YOURSELF)
 -  [ドラマティック平凡](intent://navigation?naviGrpId=647260&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ドラマティック平凡) / 曲映像JOYのみ、映像約1分、1番サビ前まで、画像
 
