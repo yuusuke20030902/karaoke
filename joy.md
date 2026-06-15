@@ -266,18 +266,18 @@
  / [検索](https://www.joysound.com/web/search/cross?keyword=進撃の巨人) / [#目次](#目次)
 
 **S1** / [検索](https://www.joysound.com/web/search/cross?keyword=S1)
-- 紅蓮の弓矢 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の弓矢) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#紅蓮の弓矢)
+- 紅蓮の弓矢 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の弓矢) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の弓矢)
 - 美しき残酷な世界 [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=美しき残酷な世界)
-- 紅蓮の座標 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の座標) / 曲DAMのみ[歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#紅蓮の座標)
-- 自由の翼 [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=自由の翼) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#自由の翼)
+- 紅蓮の座標 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の座標) / 曲DAMのみ[歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の座標)
+- 自由の翼 [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=自由の翼) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#自由の翼)
 - great escape [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=great%20escape)
 
 **S2** / [検索](https://www.joysound.com/web/search/cross?keyword=S2)
-- 心臓を捧げよ! [-1] / [検索](https://www.joysound.com/web/search/cross?keyword=心臓を捧げよ!) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#心臓を捧げよ)
-- 暁の鎮魂歌 [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=暁の鎮魂歌) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#暁の鎮魂歌)
+- 心臓を捧げよ! [-1] / [検索](https://www.joysound.com/web/search/cross?keyword=心臓を捧げよ!) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#心臓を捧げよ)
+- 暁の鎮魂歌 [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=暁の鎮魂歌) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#暁の鎮魂歌)
 
 **S3** / [検索](https://www.joysound.com/web/search/cross?keyword=S3)
-- 憧憬と屍の道 [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=憧憬と屍の道) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#憧憬と屍の道)
+- 憧憬と屍の道 [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=憧憬と屍の道) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#憧憬と屍の道)
 - Name of Love [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=Name%20of%20Love)
 
 **SF** / [検索](https://www.joysound.com/web/search/cross?keyword=SF)
@@ -285,9 +285,9 @@
 - The Rumbling [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=The%20Rumbling)
 - 悪魔の子 [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=悪魔の子)
 - UNDER THE TREE [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=UNDER%20THE%20TREE)
-- 最後の巨人 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最後の巨人) / フルDAMのみ[歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#最後の巨人)
+- 最後の巨人 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最後の巨人) / フルDAMのみ[歌詞](https://yuusuke20030902.github.io/karaoke/text#最後の巨人)
 - いってらっしゃい [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=いってらっしゃい)
-- 二千年... 若しくは... 二万年後の君へ・・・ [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=二千年...%20若しくは...%20二万年後の君へ・・・) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#二千年-若しくは-二万年後の君へ)
+- 二千年... 若しくは... 二万年後の君へ・・・ [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=二千年...%20若しくは...%20二万年後の君へ・・・) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#二千年-若しくは-二万年後の君へ)
 - 反撃の大地 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=反撃の大地)
 
 **挿入歌** / [検索](https://www.joysound.com/web/search/cross?keyword=挿入歌)
@@ -350,13 +350,13 @@
 - ぴょいっと♪はれるや! / [検索](https://www.joysound.com/web/search/cross?keyword=ぴょいっと♪はれるや!)
 - GIRLS' LEGEND U [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=GIRLS'%20LEGEND%20U)
 - うまぴょい伝説 [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=うまぴょい伝説)
-- Umapyoi Legend (English ver.) / [検索](https://www.joysound.com/web/search/cross?keyword=Umapyoi%20Legend%20(English%20ver.)) / [歌詞](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#umapyoi-legend-english-ver)
+- Umapyoi Legend (English ver.) / [検索](https://www.joysound.com/web/search/cross?keyword=Umapyoi%20Legend%20(English%20ver.)) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#umapyoi-legend-english-ver)
 
 ## ONE PIECE
  / [検索](https://www.joysound.com/web/search/cross?keyword=ONE%20PIECE) / [#目次](#目次) / [歴代](https://dic.pixiv.net/a/アニワン#h3_4)
 
 **2年前** / [検索](https://www.joysound.com/web/search/cross?keyword=2年前)
-- ウィーアー! [原] / [検索](https://www.joysound.com/web/search/cross?keyword=ウィーアー!) / [ナレーション](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#ウィーアー),一味=原+0
+- ウィーアー! [原] / [検索](https://www.joysound.com/web/search/cross?keyword=ウィーアー!) / [ナレーション](https://yuusuke20030902.github.io/karaoke/text#ウィーアー),一味=原+0
 - memories [0] / [検索](https://www.joysound.com/web/search/cross?keyword=memories) / [ナレーション](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
 - Believe [原-6] / [検索](https://www.joysound.com/web/search/cross?keyword=Believe) / [ナレーション](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
 - ヒカリへ / [検索](https://www.joysound.com/web/search/cross?keyword=ヒカリへ) / [ナレーション](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#ヒカリへ)
@@ -367,7 +367,7 @@
 - One day [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=One%20day)
 
 **2年後** / [検索](https://www.joysound.com/web/search/cross?keyword=2年後)
-- ウィーゴー [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=ウィーゴー) / [ナレーション](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#ウィーゴー),一味=原+4
+- ウィーゴー [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=ウィーゴー) / [ナレーション](https://yuusuke20030902.github.io/karaoke/text#ウィーゴー),一味=原+4
 - 最高到達点 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最高到達点)
 - あーーっす! [0] / [検索](https://www.joysound.com/web/search/cross?keyword=あーーっす!)
 - 天使と悪魔 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=天使と悪魔)
@@ -379,7 +379,7 @@
 ## アニソン
  / [検索](https://www.joysound.com/web/search/cross?keyword=アニソン) / [#目次](#目次)
 - Bのリベンジ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Bのリベンジ)
-- キミがいれば [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=キミがいれば) / JOYのみ映像あり,[ナレーション](https://github.com/yuusuke20030902/karaoke/blob/main/text.md#コナン)
+- キミがいれば [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=キミがいれば) / JOYのみ映像あり,[ナレーション](https://yuusuke20030902.github.io/karaoke/text#コナン)
 - 祝福 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=祝福)
 - 勇者 / [検索](https://www.joysound.com/web/search/cross?keyword=勇者)
 - 立ち上がリーヨ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=立ち上がリーヨ)
