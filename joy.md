@@ -83,6 +83,7 @@
 - Switch On! [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=Switch%20On!)
 - 咲いて [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=咲いて)
 - Giant Step [+3] / [検索](https://www.joysound.com/web/search/cross?keyword=Giant%20Step)
+- SAMURAI STRONG STYLE / [検索](https://www.joysound.com/web/search/cross?keyword=SAMURAI%20STRONG%20STYLE)
 - COSMIC MIND [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=COSMIC%20MIND)
 - ENDLESS PLAY [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ENDLESS%20PLAY)
 
@@ -109,19 +110,25 @@
 - REAL GAME [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=REAL%20GAME) / 間奏長い
 
 **ビルド** / [検索](https://www.joysound.com/web/search/cross?keyword=ビルド)
-- Be The One / [検索](https://www.joysound.com/web/search/cross?keyword=Be%20The%20One)
+-  [Be The One](intent://navigation?naviGrpId=662201&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [712662] / [検索](https://www.joysound.com/web/search/cross?keyword=Be%20The%20One)
+-  [Ready Go!!](intent://navigation?naviGrpId=712662&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [711978] / [検索](https://www.joysound.com/web/search/cross?keyword=Ready%20Go!!) / 曲JOYのみ
+-  [Burning My Soul](intent://navigation?naviGrpId=711978&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Burning%20My%20Soul)
+-  [Evolution](intent://navigation?naviGrpId=712663&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Evolution) / 曲JOYのみ
+- Build up [711977] / [検索](https://www.joysound.com/web/search/cross?keyword=Build%20up) / 曲なし
+-  [Law of the Victory](intent://navigation?naviGrpId=711977&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [737761] / [検索](https://www.joysound.com/web/search/cross?keyword=Law%20of%20the%20Victory)
+-  [Everlasting Sky](intent://navigation?naviGrpId=737761&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Everlasting%20Sky)
 
 **ジオウ** / [検索](https://www.joysound.com/web/search/cross?keyword=ジオウ)
 - Over“Quartzer” / [検索](https://www.joysound.com/web/search/cross?keyword=Over“Quartzer”)
 - ジオウ 時の王者 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ジオウ%20時の王者)
 
 **セイバー** / [検索](https://www.joysound.com/web/search/cross?keyword=セイバー)
-- ALMIGHTY～仮面の約束 feat.川上洋平 [+3] / [検索](https://www.joysound.com/web/search/cross?keyword=ALMIGHTY～仮面の約束%20feat.川上洋平)
-- 仮面ライダーセイバー [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーセイバー) / 映像DAMのみ
-- 多重露光 feat.川上洋平 [-+4] / [検索](https://www.joysound.com/web/search/cross?keyword=多重露光%20feat.川上洋平)
+- ALMIGHTY～仮面の約束 feat.川上洋平 [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ALMIGHTY～仮面の約束%20feat.川上洋平)
+- 仮面ライダーセイバー [0] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーセイバー) / 映像DAMのみ
+- 多重露光 feat.川上洋平 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=多重露光%20feat.川上洋平)
 - Rewrite the story [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Rewrite%20the%20story) / フルDAMのみ
 - Will save us [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=Will%20save%20us) / フルDAMのみ
-- The story never ends [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=The%20story%20never%20ends) / 曲DAMのみ
+- The story never ends [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=The%20story%20never%20ends) / 曲DAMのみ
 - Bittersweet [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Bittersweet) / 曲DAMのみ(short)
 
 **リバイス** / [検索](https://www.joysound.com/web/search/cross?keyword=リバイス)
@@ -169,7 +176,7 @@
 - VAMOLA!キョウリュウジャー [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=VAMOLA!キョウリュウジャー)
 - 動物戦隊ジュウオウジャー [+3] / [検索](https://www.joysound.com/web/search/cross?keyword=動物戦隊ジュウオウジャー)
 - ルパンレンジャーVSパトレンジャー [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ルパンレンジャーVSパトレンジャー)
-- 最高最強 SUPER STARS! [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最高最強%20SUPER%20STARS!)
+- 最高最強 SUPER STARS! [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=最高最強%20SUPER%20STARS!)
 - 全力全開！ゼンカイジャー [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=全力全開！ゼンカイジャー)
 
 **ドンブラ** / [検索](https://www.joysound.com/web/search/cross?keyword=ドンブラ)
@@ -223,6 +230,7 @@
 **ブレーザー** / [検索](https://www.joysound.com/web/search/cross?keyword=ブレーザー)
 - 僕らのスペクトラ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=僕らのスペクトラ) / 映像DAMのみ
 - BLACK STAR [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=BLACK%20STAR)
+- 星と獣 / [検索](https://www.joysound.com/web/search/cross?keyword=星と獣)
 
 **-**
 - arc jump'n to the sky [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=arc%20jump'n%20to%20the%20sky)
@@ -234,9 +242,11 @@
 ## ヒーロー
  / [検索](https://www.joysound.com/web/search/cross?keyword=ヒーロー) / [#目次](#目次)
 - レスキューファイアー [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=レスキューファイアー)
-- 宇宙刑事ギャバン [原] / [検索](https://www.joysound.com/web/search/cross?keyword=宇宙刑事ギャバン)
+- 宇宙刑事ギャバン [原] / [検索](https://www.joysound.com/web/search/cross?keyword=宇宙刑事ギャバン) / 映像DAMのみ
 - LOVE IS THE STRONGEST [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=LOVE%20IS%20THE%20STRONGEST)
-- ガガガガガガガ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ガガガガガガガ)
+-  [What's a Hero](intent://navigation?naviGrpId=1165892&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=What's%20a%20Hero) / 現状曲JOYのみ
+- ガガガガガガガ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ガガガガガガガ) / 映像両方
+- UNION / [検索](https://www.joysound.com/web/search/cross?keyword=UNION)
 
 ## 新海監督
  / [検索](https://www.joysound.com/web/search/cross?keyword=新海監督) / [#目次](#目次)
@@ -260,7 +270,6 @@
 
 **秒速** / [検索](https://www.joysound.com/web/search/cross?keyword=秒速)
 - One more time,One more chance [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=One%20more%20time,One%20more%20chance)
-- 1991 / [検索](https://www.joysound.com/web/search/cross?keyword=1991)
 
 ## 進撃の巨人
  / [検索](https://www.joysound.com/web/search/cross?keyword=進撃の巨人) / [#目次](#目次)
@@ -295,6 +304,9 @@
 - Bauklotze [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Bauklotze)
 - Call your name [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Call%20your%20name)
 - attack ON titan [0] / [検索](https://www.joysound.com/web/search/cross?keyword=attack%20ON%20titan)
+
+**キャラソン** / [検索](https://www.joysound.com/web/search/cross?keyword=キャラソン)
+- No matter where you are / [検索](https://www.joysound.com/web/search/cross?keyword=No%20matter%20where%20you%20are)
 
 ## けものフレンズ
  / [検索](https://www.joysound.com/web/search/cross?keyword=けものフレンズ) / [#目次](#目次)
@@ -343,6 +355,12 @@
 - 恋はダービー☆ [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=恋はダービー☆)
 - 願いのカタチ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=願いのカタチ)
 
+**シンデレラグレイ** / [検索](https://www.joysound.com/web/search/cross?keyword=シンデレラグレイ) / 映像JOYのみ
+- 超える / [検索](https://www.joysound.com/web/search/cross?keyword=超える)
+- スパートシンドローマー / [検索](https://www.joysound.com/web/search/cross?keyword=スパートシンドローマー)
+- ∞ / [検索](https://www.joysound.com/web/search/cross?keyword=∞)
+- ふたり / [検索](https://www.joysound.com/web/search/cross?keyword=ふたり)
+
 **その他** / [検索](https://www.joysound.com/web/search/cross?keyword=その他)
 - Glorious Moment！ [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=Glorious%20Moment！)
 - Ready!! Steady!! Derby!! [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=Ready!!%20Steady!!%20Derby!!)
@@ -390,16 +408,15 @@
 - シュガーソングとビターステップ [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=シュガーソングとビターステップ)
 - ダンバイン とぶ / [検索](https://www.joysound.com/web/search/cross?keyword=ダンバイン%20とぶ)
 - 不可思議のカルテ [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=不可思議のカルテ)
-- Let It Go / [検索](https://www.joysound.com/web/search/cross?keyword=Let%20It%20Go)
 - ふたりはプリキュア / [検索](https://www.joysound.com/web/search/cross?keyword=ふたりはプリキュア)
-- おさるのジョージ / [検索](https://www.joysound.com/web/search/cross?keyword=おさるのジョージ)
 - 勇気100% / [検索](https://www.joysound.com/web/search/cross?keyword=勇気100%)
-- Get Wild / [検索](https://www.joysound.com/web/search/cross?keyword=Get%20Wild)
-- デビルマンのうた / [検索](https://www.joysound.com/web/search/cross?keyword=デビルマンのうた)
+- アンインストール / [検索](https://www.joysound.com/web/search/cross?keyword=アンインストール)
+- ふ・れ・ん・ど・し・た・い / [検索](https://www.joysound.com/web/search/cross?keyword=ふ・れ・ん・ど・し・た・い)
+- 僕達は天使だった / [検索](https://www.joysound.com/web/search/cross?keyword=僕達は天使だった)
 
 **時をかける少女** / [検索](https://www.joysound.com/web/search/cross?keyword=時をかける少女)
 - 変わらないもの [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=変わらないもの)
-- ガーネット [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=ガーネット)
+- ガーネット [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=ガーネット) / 映像DAMのみ
 
 **リコリコ** / [検索](https://www.joysound.com/web/search/cross?keyword=リコリコ)
 - ALIVE [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ALIVE)
@@ -407,7 +424,6 @@
 
 **ポケモン** / [検索](https://www.joysound.com/web/search/cross?keyword=ポケモン)
 - めざせポケモンマスター [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=めざせポケモンマスター)
-- ポケットにファンタジー / [検索](https://www.joysound.com/web/search/cross?keyword=ポケットにファンタジー)
 - V [0] / [検索](https://www.joysound.com/web/search/cross?keyword=V)
 - ゲッタバンバン [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ゲッタバンバン)
 - 1・2・3 [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=1・2・3) / 映像DAMのみ、ハモリDAMはデュエット採点
@@ -431,7 +447,7 @@
 - はちゃめちゃわちゃライフ！ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=はちゃめちゃわちゃライフ！)
 
 **暗殺教室** / [検索](https://www.joysound.com/web/search/cross?keyword=暗殺教室)
-- 青春サツバツ論 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=青春サツバツ論)
+- 青春サツバツ論 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=青春サツバツ論)
 - 自力本願レボリューション [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=自力本願レボリューション)
 - QUESTION [+3] / [検索](https://www.joysound.com/web/search/cross?keyword=QUESTION)
 - 欠けた月 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=欠けた月)
@@ -514,7 +530,7 @@
 - ぼくときみ [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=ぼくときみ)
 - 駆け抜けて性春 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=駆け抜けて性春)
 - さよならごっこ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=さよならごっこ)
-- もうひとつの未来 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=もうひとつの未来)
+- もうひとつの未来～starry spirits～ [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=もうひとつの未来～starry%20spirits～)
 
 ## 一般
  / [検索](https://www.joysound.com/web/search/cross?keyword=一般) / [#目次](#目次)
@@ -564,6 +580,7 @@
 - かわいいだけじゃだめですか？ / [検索](https://www.joysound.com/web/search/cross?keyword=かわいいだけじゃだめですか？)
 - ピュアいんざワールド [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ピュアいんざワールド)
 - 好きすぎて滅! [0] / [検索](https://www.joysound.com/web/search/cross?keyword=好きすぎて滅!)
+- 森の小さなレストラン / [検索](https://www.joysound.com/web/search/cross?keyword=森の小さなレストラン)
 
 **その他** / [検索](https://www.joysound.com/web/search/cross?keyword=その他)
 - 令和 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=令和)
