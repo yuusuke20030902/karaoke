@@ -110,12 +110,12 @@
 - REAL GAME [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=REAL%20GAME) / 間奏長い
 
 **ビルド** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ビルド)
--  [Be The One](intent://reserve/?reqno=207431#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [712662] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Be%20The%20One)
-- Ready Go!! [711978] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Ready%20Go!!) / 曲JOYのみ
+-  [Be The One](intent://reserve/?reqno=207431#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [+2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Be%20The%20One)
+- Ready Go!! / [検索](https://www.clubdam.com/karaokesearch/?keyword=Ready%20Go!!) / 曲JOYのみ
 -  [Burning My Soul](intent://reserve/?reqno=626281#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=Burning%20My%20Soul)
 - Evolution / [検索](https://www.clubdam.com/karaokesearch/?keyword=Evolution) / 曲JOYのみ
-- Build up [711977] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Build%20up) / 曲なし
--  [Law of the Victory](intent://reserve/?reqno=525249#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [737761] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Law%20of%20the%20Victory)
+- Build up / [検索](https://www.clubdam.com/karaokesearch/?keyword=Build%20up) / 曲なし
+-  [Law of the Victory](intent://reserve/?reqno=525249#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=Law%20of%20the%20Victory)
 -  [Everlasting Sky](intent://reserve/?reqno=517862#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=Everlasting%20Sky)
 
 **ジオウ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ジオウ)
