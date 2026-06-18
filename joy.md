@@ -110,12 +110,12 @@
 - REAL GAME [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=REAL%20GAME) / 間奏長い
 
 **ビルド** / [検索](https://www.joysound.com/web/search/cross?keyword=ビルド)
--  [Be The One](intent://navigation?naviGrpId=662201&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [712662] / [検索](https://www.joysound.com/web/search/cross?keyword=Be%20The%20One)
--  [Ready Go!!](intent://navigation?naviGrpId=712662&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [711978] / [検索](https://www.joysound.com/web/search/cross?keyword=Ready%20Go!!) / 曲JOYのみ
+-  [Be The One](intent://navigation?naviGrpId=662201&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [+2] / [検索](https://www.joysound.com/web/search/cross?keyword=Be%20The%20One)
+-  [Ready Go!!](intent://navigation?naviGrpId=712662&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Ready%20Go!!) / 曲JOYのみ
 -  [Burning My Soul](intent://navigation?naviGrpId=711978&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Burning%20My%20Soul)
 -  [Evolution](intent://navigation?naviGrpId=712663&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Evolution) / 曲JOYのみ
-- Build up [711977] / [検索](https://www.joysound.com/web/search/cross?keyword=Build%20up) / 曲なし
--  [Law of the Victory](intent://navigation?naviGrpId=711977&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [737761] / [検索](https://www.joysound.com/web/search/cross?keyword=Law%20of%20the%20Victory)
+- Build up / [検索](https://www.joysound.com/web/search/cross?keyword=Build%20up) / 曲なし
+-  [Law of the Victory](intent://navigation?naviGrpId=711977&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Law%20of%20the%20Victory)
 -  [Everlasting Sky](intent://navigation?naviGrpId=737761&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Everlasting%20Sky)
 
 **ジオウ** / [検索](https://www.joysound.com/web/search/cross?keyword=ジオウ)
