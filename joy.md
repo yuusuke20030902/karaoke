@@ -70,7 +70,7 @@
 
 **ダブル** / [検索](https://www.joysound.com/web/search/cross?keyword=ダブル)
 - W-B-X～W boiled extreme～ [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=W-B-X～W%20boiled%20extreme～)
-- Cyclone Effext / [検索](https://www.joysound.com/web/search/cross?keyword=Cyclone%20Effext)
+- Cyclone Effext [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=Cyclone%20Effext)
 - Nobody's Perfect [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Nobody's%20Perfect)
 - Leave all Behind [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Leave%20all%20Behind)
 - W [0] / [検索](https://www.joysound.com/web/search/cross?keyword=W)
@@ -249,7 +249,7 @@
 - 宇宙刑事ギャバン [原] / [検索](https://www.joysound.com/web/search/cross?keyword=宇宙刑事ギャバン) / 映像DAMのみ
 - LOVE IS THE STRONGEST [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=LOVE%20IS%20THE%20STRONGEST)
 -  [What's a Hero](intent://navigation?naviGrpId=1165892&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=What's%20a%20Hero) / 現状曲JOYのみ
-- ガガガガガガガ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ガガガガガガガ) / 映像両方
+-  [ガガガガガガガ](intent://navigation?naviGrpId=730857&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ガガガガガガガ) / 映像両方
 - UNION / [検索](https://www.joysound.com/web/search/cross?keyword=UNION)
 
 ## 新海監督
@@ -353,7 +353,7 @@
 - グロウアップ・シャイン! [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=グロウアップ・シャイン!)
 
 **二期** / [検索](https://www.joysound.com/web/search/cross?keyword=二期)
-- ユメヲカケル！ [+5] / [検索](https://www.joysound.com/web/search/cross?keyword=ユメヲカケル！)
+- ユメヲカケル！ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ユメヲカケル！)
 - winning the soul [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=winning%20the%20soul)
 - 木漏れ日のエール [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=木漏れ日のエール)
 - ささやかな祈り [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=ささやかな祈り)
@@ -403,7 +403,15 @@
 ## ドラえもん
  / [検索](https://www.joysound.com/web/search/cross?keyword=ドラえもん) / [#目次](#目次) / 映像DAMのみ
 - ボクノート [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ボクノート)
+
+**新鉄人兵団** / [検索](https://www.joysound.com/web/search/cross?keyword=新鉄人兵団)
+- アムとイムのうた ～メカトピアのテーマ / [検索](https://www.joysound.com/web/search/cross?keyword=アムとイムのうた%20～メカトピアのテーマ) / 曲DAMのみ
+- ニャバダ・ワンダフル / [検索](https://www.joysound.com/web/search/cross?keyword=ニャバダ・ワンダフル) / 曲DAMのみ
+- 羽根をつけたら / [検索](https://www.joysound.com/web/search/cross?keyword=羽根をつけたら) / 曲DAMのみ
+- キミがいてくれるなら / [検索](https://www.joysound.com/web/search/cross?keyword=キミがいてくれるなら) / 曲DAMのみ
 - 友達の唄 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=友達の唄)
+
+**-**
 - 未来のミュージアム [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=未来のミュージアム)
 - 僕の心をつくってよ [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=僕の心をつくってよ)
 - ドラえもん [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ドラえもん)
