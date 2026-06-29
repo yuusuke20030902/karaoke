@@ -70,7 +70,7 @@
 
 **ダブル** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ダブル)
 - W-B-X～W boiled extreme～ [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=W-B-X～W%20boiled%20extreme～)
-- Cyclone Effext / [検索](https://www.clubdam.com/karaokesearch/?keyword=Cyclone%20Effext)
+- Cyclone Effext [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Cyclone%20Effext)
 - Nobody's Perfect [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Nobody's%20Perfect)
 - Leave all Behind [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Leave%20all%20Behind)
 - W [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=W)
@@ -353,7 +353,7 @@
 - グロウアップ・シャイン! [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=グロウアップ・シャイン!)
 
 **二期** / [検索](https://www.clubdam.com/karaokesearch/?keyword=二期)
-- ユメヲカケル！ [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ユメヲカケル！)
+- ユメヲカケル！ [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ユメヲカケル！)
 - winning the soul [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=winning%20the%20soul)
 - 木漏れ日のエール [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=木漏れ日のエール)
 - ささやかな祈り [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ささやかな祈り)
@@ -403,7 +403,15 @@
 ## ドラえもん
  / [検索](https://www.clubdam.com/karaokesearch/?keyword=ドラえもん) / [#目次](#目次) / 映像DAMのみ
 -  [ボクノート](intent://reserve/?reqno=502619#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ボクノート)
+
+**新鉄人兵団** / [検索](https://www.clubdam.com/karaokesearch/?keyword=新鉄人兵団)
+-  [アムとイムのうた ～メカトピアのテーマ](intent://reserve/?reqno=455462#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=アムとイムのうた%20～メカトピアのテーマ) / 曲DAMのみ
+-  [ニャバダ・ワンダフル](intent://reserve/?reqno=336808#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=ニャバダ・ワンダフル) / 曲DAMのみ
+-  [羽根をつけたら](intent://reserve/?reqno=455463#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=羽根をつけたら) / 曲DAMのみ
+-  [キミがいてくれるなら](intent://reserve/?reqno=313510#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=キミがいてくれるなら) / 曲DAMのみ
 -  [友達の唄](intent://reserve/?reqno=687348#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=友達の唄)
+
+**-**
 -  [未来のミュージアム](intent://reserve/?reqno=627134#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=未来のミュージアム)
 -  [僕の心をつくってよ](intent://reserve/?reqno=656077#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=僕の心をつくってよ)
 -  [ドラえもん](intent://reserve/?reqno=603905#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ドラえもん)
