@@ -643,3 +643,20 @@ Loving what we do
 
 > たった一つの真実見抜く見た目は子供、頭脳は大人、
 その名は、名探偵コナン！
+
+<div class="hiragana">
+          ひつじのショーン<br>
+ひつじのショーン<br>
+からかっちゃうよ<br>
+なんだって<span class="ruby"><span class="rb">誰</span><span class="rt">だれ</span></span>だって<br>
+<span class="ruby"><span class="rb">忘</span><span class="rt">わす</span></span>れないよ<br>
+<span class="ruby"><span class="rb">本当</span><span class="rt">ほんとう</span></span>に<span class="ruby"><span class="rb">有名</span><span class="rt">ゆうめい</span></span>(メェ～)な<br>
+ひつじのショーンさ<br>
+<br>
+ひつじのショーン<br>
+ひつじのショーン<br>
+<span class="ruby"><span class="rb">転</span><span class="rt">ころ</span></span>んでもただじゃ<span class="ruby"><span class="rb">起</span><span class="rt">お</span></span>きないぜ<br>
+どこまでも <span class="ruby"><span class="rb">前</span><span class="rt">まえ</span></span>に<span class="ruby"><span class="rb">進</span><span class="rt">すすむ</span></span>メェ～<br>
+ひつじのショーンさ<br>
+メェ～ ひつじのショーンさ！<br>
+        </div>
