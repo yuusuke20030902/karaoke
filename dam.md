@@ -546,6 +546,11 @@
 - AIZO [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=AIZO)
 - よあけのうた [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=よあけのうた)
 
+**ちいかわ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ちいかわ)
+-  [ひとりごつ](intent://reserve/?reqno=460694#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=ひとりごつ) / 映像DAMのみ
+-  [くつずれ](intent://reserve/?reqno=152173#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=くつずれ) / 映像DAMのみ
+-  [机さする](intent://reserve/?reqno=152174#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=机さする) / 映像DAMのみ
+
 **平成** / [検索](https://www.clubdam.com/karaokesearch/?keyword=平成)
 - ヒャダインのカカカタ☆カタオモイ-C [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒャダインのカカカタ☆カタオモイ-C)
 - ヒャダインのじょーじょーゆーじょー [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒャダインのじょーじょーゆーじょー)
