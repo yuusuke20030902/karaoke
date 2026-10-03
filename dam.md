@@ -204,7 +204,7 @@
 **ゼッツ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ゼッツ)
 - VISIONS [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=VISIONS) / 映像both
 - PLAY BACK [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=PLAY%20BACK)
-- ~~PLAY BACK~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲JOY / 映像JOY / shortのみ
+- ~~-~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲JOY / 映像JOY / shortのみ
 - Into The Abyss [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Into%20The%20Abyss)
 - Dreams Never Sleep [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Dreams%20Never%20Sleep)
 
@@ -256,13 +256,13 @@
 
 **ギャバン** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ギャバン)
 -  [LOVE IS THE STRONGEST](intent://reserve/?reqno=142821#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=LOVE%20IS%20THE%20STRONGEST)
-- ~~~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲JOY / 映像JOY / shortのみ
+- ~~-~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲JOY / 映像JOY / shortのみ
 -  [What's a Hero](intent://reserve/?reqno=155671#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=What's%20a%20Hero)
 - Emotionalism [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Emotionalism)
 
 **オメガホーン** / [検索](https://www.clubdam.com/karaokesearch/?keyword=オメガホーン)
 - SHOUTラララVIVA! [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=SHOUTラララVIVA!)
-- ~~~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲JOY / 映像JOY / shortのみ
+- ~~-~~ / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲JOY / 映像JOY / shortのみ
 
 ## ウルトラマン
  / [検索](https://www.clubdam.com/karaokesearch/?keyword=ウルトラマン) / [#目次](#目次)
@@ -437,25 +437,25 @@
 
 **一期** / [検索](https://www.clubdam.com/karaokesearch/?keyword=一期)
 - Make debut! [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Make%20debut!)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - グロウアップ・シャイン! [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=グロウアップ・シャイン!)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - Special Record! [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Special%20Record!)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 
 **二期** / [検索](https://www.clubdam.com/karaokesearch/?keyword=二期)
 - ユメヲカケル！ [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ユメヲカケル！)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - winning the soul [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=winning%20the%20soul)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - 木漏れ日のエール [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=木漏れ日のエール)
 - ささやかな祈り [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ささやかな祈り)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - 願いのカタチ [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=願いのカタチ)
 
 **三期** / [検索](https://www.clubdam.com/karaokesearch/?keyword=三期)
 - ソシテミンナノ [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ソシテミンナノ)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 
 **シンデレラグレイ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=シンデレラグレイ)
 -  [超える](intent://reserve/?reqno=114158#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=超える) / 映像JOY
@@ -465,18 +465,18 @@
 
 **その他** / [検索](https://www.clubdam.com/karaokesearch/?keyword=その他)
 - Glorious Moment！ [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Glorious%20Moment！)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - Ready!! Steady!! Derby!! [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Ready!!%20Steady!!%20Derby!!)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - ぴょいっと♪はれるや! [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ぴょいっと♪はれるや!)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - 逃げ切りっ！Fallin' Love [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=逃げ切りっ！Fallin'%20Love)
 - 恋はダービー☆ [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=恋はダービー☆)
 - 立ち位置ゼロ番!順位は一番! [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=立ち位置ゼロ番!順位は一番!)
 - GIRLS' LEGEND U [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=GIRLS'%20LEGEND%20U)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - うまぴょい伝説 [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=うまぴょい伝説)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM WAO / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM WAO / shortのみ
 - Umapyoi Legend (English ver.) / [検索](https://www.clubdam.com/karaokesearch/?keyword=Umapyoi%20Legend%20(English%20ver.)) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#umapyoi-legend-english-ver)
 
 ## ONE PIECE
@@ -648,7 +648,7 @@
 
 **宝鐘マリン** / [検索](https://www.clubdam.com/karaokesearch/?keyword=宝鐘マリン)
 -  [Ahoy!! 我ら宝鐘海賊団☆](intent://reserve/?reqno=133131#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Ahoy!!%20我ら宝鐘海賊団☆)
-- 0 / [検索](https://www.clubdam.com/karaokesearch/?keyword=0) / 曲DAM / 映像DAM / shortのみ
+- - / [検索](https://www.clubdam.com/karaokesearch/?keyword=-) / 曲DAM / 映像DAM / shortのみ
 -  [美少女無罪パイレーツ](intent://reserve/?reqno=129186#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=美少女無罪パイレーツ) / 映像both
 -  [Unison](intent://reserve/?reqno=128172#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=Unison) / 映像DAM
 -  [I I I](intent://reserve/?reqno=400055#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=I%20I%20I) / 映像both / [歌詞](https://qiita.com/yuusuke20030902/private/24528900fe3152d83c3c)
