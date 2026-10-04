@@ -4,142 +4,245 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>謎解きゲーム</title>
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text x=%2250%%22 y=%2250%%22 style=%22dominant-baseline:central;text-anchor:middle;font-size:90px;%22>🔑</text></svg>">
   
   <style>
-    /* 画面の幅の計算をズレにくくするおまじない */
-    * {
-      box-sizing: border-box;
-    }
-
-    /* 全体の設定 */
+    * { box-sizing: border-box; }
+    
     body {
+      margin: 0;
       background-color: #111;
       color: #ffffff;
       font-family: 'Meiryo', sans-serif;
-      padding: 20px;
-      font-size: 16px; /* スマホでタップした時の自動ズームを防ぐため16pxにします */
+      font-size: 16px;
     }
-
-    /* ===============================
-       ★入力欄とボタンをスマホ向けに大きく・おしゃれに
-    ================================ */
+    
+    /* 常に上部に固定されるヘッダー */
+    .sticky-header {
+      position: sticky; top: 0;
+      background-color: rgba(17, 17, 17, 0.95);
+      padding: 15px 20px;
+      border-bottom: 1px solid #333;
+      z-index: 1000; text-align: center;
+    }
+    
+    .sticky-header h1 { 
+      margin: 0; font-size: 1.2em; color: #ffffff; letter-spacing: 2px; 
+    }
+    
+    /* 謎解きコンテンツ全体を囲う箱 */
+    .container { 
+      padding: 20px; max-width: 600px; margin: 0 auto; 
+    }
+    
+    /* 入力欄とボタンのデザイン */
     input[type="text"], button {
-      width: 100%;          /* スマホでは横幅いっぱいに広げる */
-      max-width: 400px;     /* PCで見た時に広がりすぎないように最大幅を設定 */
-      padding: 15px;        /* 指でタップしやすいように内側に余白を作る */
-      margin-bottom: 10px;  /* 下に少し隙間を空ける */
-      font-size: 16px;      /* 文字を大きめに */
-      font-family: 'Meiryo', sans-serif;
-      border-radius: 6px;   /* 角を少し丸くして現代風に */
+      width: 100%; padding: 15px; margin-bottom: 10px;
+      font-size: 16px; font-family: 'Meiryo', sans-serif; border-radius: 6px;
+    }
+    
+    input[type="text"] { 
+      background-color: #222; color: #fff; border: 1px solid #555; 
+      transition: color 0.3s, background-color 0.3s; /* 色の変化を滑らかに */
+    }
+    
+    /* 解答ボタン */
+    button { 
+      background-color: #4db8ff; color: #000; font-weight: bold; border: none; cursor: pointer; 
+    }
+    
+    button:disabled { 
+      background-color: #555; color: #888; cursor: not-allowed; 
     }
 
-    /* 入力欄のデザイン（黒背景に合うように） */
-    input[type="text"] {
-      background-color: #222; /* 真っ黒より少し明るい色 */
-      color: #fff;            /* 入力する文字色は白 */
-      border: 1px solid #555; /* 枠線は目立ちすぎないグレー */
+    /* ロック状態（クリア後）の入力欄のデザイン */
+    input[type="text"]:disabled {
+      color: #888;             /* 文字色はグレー */
+      background-color: #333;  /* 背景は通常時より少し暗く */
+      border-color: #444;      /* 枠線も目立たなく */
+      cursor: not-allowed;     /* マウスカーソルを「禁止」マークに */
     }
 
-    /* ボタンのデザイン（押したくなるように目立たせる） */
-    button {
-      background-color: #4db8ff; /* 鮮やかな水色 */
-      color: #000;               /* ボタンの文字は黒で読みやすく */
-      font-weight: bold;
-      border: none;
-      cursor: pointer;           /* PCでマウスを乗せた時に指マークにする */
+    /* リセットボタン専用のデザイン */
+    .reset-btn {
+      background-color: transparent; 
+      color: #ff6666;                
+      border: 1px solid #ff6666;     
+      margin-top: 50px;              
+      padding: 10px;
+      font-size: 14px;
     }
 
-    /* ボタンを押せない状態（クリア後）のデザイン */
-    button:disabled {
-      background-color: #555;
-      color: #888;
-      cursor: not-allowed;
+    /* 空間を隠す・フワッと出す設定 */
+    @keyframes fadeIn { 
+      0% { opacity: 0; transform: translateY(-10px); } 
+      100% { opacity: 1; transform: translateY(0); } 
     }
+    .fade-in { animation: fadeIn 0.8s ease forwards; }
+    .hidden-stage { display: none; }
+    
+    hr { border-color: #333; margin: 30px 0; }
 
     /* ===============================
-       アニメーションなどの設定（変更なし）
+       訂正が発生した時の文字色アニメーション
     ================================ */
-    @keyframes fadeIn {
-      0% { opacity: 0; transform: translateY(-10px); }
-      100% { opacity: 1; transform: translateY(0); }
+    @keyframes flashCorrectionTextOnly {
+      0% { color: #ffeb3b; }   /* 開始時：文字を鮮やかな黄色に */
+      30% { color: #ffeb3b; }  /* 少しの間、黄色をキープ */
+      100% { color: #888; }    /* 終了時：通常のロック状態のグレー文字に戻る */
     }
-    .fade-in {
-      animation: fadeIn 0.8s ease forwards;
-    }
-    .hidden-stage {
-      display: none;
-    }
-    hr {
-      border-color: #333;
-      margin: 30px 0;
+
+    .corrected-flash {
+      animation: flashCorrectionTextOnly 2.0s ease-out forwards;
     }
   </style>
 </head>
 <body>
 
-  <div id="stage1">
-    <h3>第1の謎</h3>
-    <p>赤い果物といえば？（3文字）</p>
-    <form id="form1">
-      <input type="text" id="input1" placeholder="答えを入力">
-      <button type="submit">解答する</button>
-    </form>
-    <p id="error1" style="color: #ff6666; font-size: 0.9em;"></p>
-  </div>
+  <header class="sticky-header">
+    <h1>謎解きゲーム</h1>
+  </header>
 
-  <div id="stage2" class="hidden-stage">
-    <hr>
-    <h3>第2の謎</h3>
-    <p>正解！では、次は「ご」から始まる動物といえば？（3文字）</p>
-    <form id="form2">
-      <input type="text" id="input2" placeholder="答えを入力">
-      <button type="submit">解答する</button>
-    </form>
-    <p id="error2" style="color: #ff6666; font-size: 0.9em;"></p>
-  </div>
+  <div class="container">
+    
+    <div id="stage1">
+      <h3>第1の謎</h3>
+      <p>赤い果物といえば？（3文字）</p>
+      <form id="form1">
+        <input type="text" id="input1" placeholder="答えを入力">
+        <button type="submit">解答する</button>
+      </form>
+      <p id="error1" style="color: #ff6666; font-size: 0.9em;"></p>
+    </div>
 
-  <div id="stage3" class="hidden-stage">
-    <hr>
-    <h3 style="color: #4db8ff;">クリア！</h3>
-    <p>🎉 すべての謎を解き明かしました！おめでとうございます！</p>
+    <div id="stage2" class="hidden-stage">
+      <hr>
+      <h3>第2の謎</h3>
+      <p>正解！では、次は「ご」から始まる動物といえば？（3文字）</p>
+      <form id="form2">
+        <input type="text" id="input2" placeholder="答えを入力">
+        <button type="submit">解答する</button>
+      </form>
+      <p id="error2" style="color: #ff6666; font-size: 0.9em;"></p>
+    </div>
+
+    <div id="stage3" class="hidden-stage">
+      <hr>
+      <h3 style="color: #4db8ff;">クリア！</h3>
+      <p>🎉 すべての謎を解き明かしました！おめでとうございます！</p>
+    </div>
+
+    <div style="text-align: center;">
+      <button id="resetButton" class="reset-btn">データをリセットして最初から</button>
+    </div>
+
   </div>
 
   <script>
+    // 入力の揺れを吸収する「魔法の変換機」
+    function formatAnswer(text) {
+      if (!text) return '';
+      let formatted = text.trim().toLowerCase();
+      formatted = formatted.normalize('NFKC');
+      formatted = formatted.replace(/[\u30a1-\u30f6]/g, function(match) {
+        return String.fromCharCode(match.charCodeAt(0) - 0x60);
+      });
+      return formatted;
+    }
+
     const form1 = document.getElementById('form1');
     const input1 = document.getElementById('input1');
     const error1 = document.getElementById('error1');
     const stage2 = document.getElementById('stage2');
-
-    form1.addEventListener('submit', (event) => {
-      event.preventDefault();
-      if (input1.value === 'りんご') {
-        error1.textContent = '';
-        input1.disabled = true;
-        form1.querySelector('button').disabled = true;
-        
-        stage2.style.display = 'block';
-        stage2.classList.add('fade-in');
-      } else {
-        error1.textContent = '不正解です。もう一度考えてみよう！';
-      }
-    });
 
     const form2 = document.getElementById('form2');
     const input2 = document.getElementById('input2');
     const error2 = document.getElementById('error2');
     const stage3 = document.getElementById('stage3');
 
-    form2.addEventListener('submit', (event) => {
-      event.preventDefault();
-      if (input2.value === 'ごりら') {
-        error2.textContent = '';
+    // ページ読み込み時の復元処理
+    window.addEventListener('DOMContentLoaded', () => {
+      if (localStorage.getItem('stage1_cleared') === 'true') {
+        input1.value = 'りんご';
+        input1.disabled = true;
+        form1.querySelector('button').disabled = true;
+        stage2.style.display = 'block';
+      }
+      if (localStorage.getItem('stage2_cleared') === 'true') {
+        input2.value = 'ごりら';
         input2.disabled = true;
         form2.querySelector('button').disabled = true;
+        stage3.style.display = 'block';
+      }
+    });
+
+    // --- 第1ステージ解答処理 ---
+    form1.addEventListener('submit', (event) => {
+      event.preventDefault();
+      
+      const originalValue = input1.value; // 元の入力内容
+      const userAnswer = formatAnswer(originalValue);
+      const correctAnswer = 'りんご'; // 想定する正解
+      
+      if (userAnswer === correctAnswer) {
+        error1.textContent = '';
         
+        // ユーザーの入力と想定正解が違う場合のみ、文字色アニメーションを実行
+        if (originalValue !== correctAnswer) {
+          input1.value = correctAnswer; 
+          input1.classList.add('corrected-flash'); 
+        } else {
+          // ピッタリ同じだった場合はアニメーションなしで書き換え（念のため）
+          input1.value = correctAnswer;
+        }
+        
+        input1.disabled = true;
+        form1.querySelector('button').disabled = true;
+        stage2.style.display = 'block';
+        stage2.classList.add('fade-in');
+        localStorage.setItem('stage1_cleared', 'true');
+      } else {
+        error1.textContent = '不正解です。もう一度考えてみよう！';
+      }
+    });
+
+    // --- 第2ステージ解答処理 ---
+    form2.addEventListener('submit', (event) => {
+      event.preventDefault();
+      
+      const originalValue = input2.value;
+      const userAnswer = formatAnswer(originalValue);
+      const correctAnswer = 'ごりら';
+      
+      if (userAnswer === correctAnswer) {
+        error2.textContent = '';
+        
+        // ユーザーの入力と想定正解が違う場合のみ、文字色アニメーションを実行
+        if (originalValue !== correctAnswer) {
+          input2.value = correctAnswer;
+          input2.classList.add('corrected-flash');
+        } else {
+          input2.value = correctAnswer;
+        }
+        
+        input2.disabled = true;
+        form2.querySelector('button').disabled = true;
         stage3.style.display = 'block';
         stage3.classList.add('fade-in');
+        localStorage.setItem('stage2_cleared', 'true');
       } else {
         error2.textContent = '不正解です。ヒント：胸を叩く動物です。';
+      }
+    });
+
+    // --- データリセット処理 ---
+    const resetButton = document.getElementById('resetButton');
+    resetButton.addEventListener('click', () => {
+      const isOk = confirm('進行状況をすべて消去して、最初からやり直しますか？');
+      if (isOk) {
+        localStorage.clear();
+        location.reload();
       }
     });
   </script>

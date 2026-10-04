@@ -3,13 +3,9 @@
 # [紅蓮の弓矢](https://lyricstranslate.com/ja/attack-titan-ost-紅蓮の弓矢-lyrics.html)
 
 > その日 人類は思い出した
-> 
 > 奴らに支配されていた恐怖を
-> 
 > 鳥籠の中に囚われていた屈辱を
-> 
 > 放たれた弓矢よ
-> 
 > 壁を越え海まで飛んでゆけ
 
 Seid ihr das Essen?
@@ -584,7 +580,7 @@ Loving what we do
 
 # [ウィーアー](https://tatami-kyun.com/onepiece-op-serifu/#toc2)
 
-> ———富・名声・力。
+富・名声・力。
 この世のすべてを手に入れた男、海賊王ゴールド・ロジャー。
 彼の死に際に放った一言は、人々を海へ駆り立てた。
 「おれの財宝か?欲しけりゃくれてやる。
@@ -594,14 +590,14 @@ Loving what we do
 
 # [Believe](https://tatami-kyun.com/onepiece-op-serifu/#toc3)
 
-> 受け継がれる意志、時代のうねり、人の夢。
+受け継がれる意志、時代のうねり、人の夢。
 それらは止める事が出来ないものだ。
 人々が自由の答えを求める限り、
 それらは決して留まる事は無い!
 
 # [ヒカリへ](https://tatami-kyun.com/onepiece-op-serifu/#toc4)
 
-> 世界が! そうだ!
+世界が! そうだ!
 自由を求め選ぶべき世界が、
 目の前に広々と横たわっている。
 終わらぬ夢がお前達の導き手ならば、
@@ -609,14 +605,14 @@ Loving what we do
 
 # [BON VOYAGE!](https://tatami-kyun.com/onepiece-op-serifu/#toc5)
 
-> この海の果てに、すんげぇ宝があるって知ってるか？
+この海の果てに、すんげぇ宝があるって知ってるか？
 それを手に入れた奴が、海賊王になれるんだ。
 ワクワクしねぇか？
 聞いた事もねェ、冒険が、待ってるっていうんだぜ!?
 
 # [ウィーゴー](ttps://dic.pixiv.net/a/ウィーゴー!)
 
-> かつて、この世のすべてを手に入れた
+かつて、この世のすべてを手に入れた
 伝説の海賊王ゴールド・ロジャー。
 彼の死に際に放った一言は、人々を海へと駆り立てた。
 「おれの財宝か?欲しけりゃくれてやる。
@@ -626,14 +622,14 @@ Loving what we do
 
 # [コナン](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1214499117)
 
-> 俺は高校生探偵、工藤新一。
+俺は高校生探偵、工藤新一。
 幼馴染で同級生の毛利蘭と遊園地へ遊びに行って
 黒ずくめの男の怪しげな取引現場を目撃した。
 取引を見るのに夢中になっていた俺は、
 背後から近づいてくるもう一人の仲間に気づかなかった。
 俺はその男に毒薬を飲まされ、目が覚めたら・・・
 
-> 体が縮んでしまっていた。
+体が縮んでしまっていた。
 工藤新一が生きているとやつらにばれたら
 また命を狙われ、周りの人間にも危害が及ぶ。
 阿笠博士の助言で正体を隠すことにした俺は、
@@ -641,22 +637,22 @@ Loving what we do
 やつらの情報をつかむ為に、
 父親が探偵をやっている蘭の家に転がり込んだ。
 
-> たった一つの真実見抜く見た目は子供、頭脳は大人、
+たった一つの真実見抜く見た目は子供、頭脳は大人、
 その名は、名探偵コナン！
 
-<div class="hiragana">
-          ひつじのショーン<br>
-ひつじのショーン<br>
-からかっちゃうよ<br>
-なんだって<span class="ruby"><span class="rb">誰</span><span class="rt">だれ</span></span>だって<br>
-<span class="ruby"><span class="rb">忘</span><span class="rt">わす</span></span>れないよ<br>
-<span class="ruby"><span class="rb">本当</span><span class="rt">ほんとう</span></span>に<span class="ruby"><span class="rb">有名</span><span class="rt">ゆうめい</span></span>(メェ～)な<br>
-ひつじのショーンさ<br>
-<br>
-ひつじのショーン<br>
-ひつじのショーン<br>
-<span class="ruby"><span class="rb">転</span><span class="rt">ころ</span></span>んでもただじゃ<span class="ruby"><span class="rb">起</span><span class="rt">お</span></span>きないぜ<br>
-どこまでも <span class="ruby"><span class="rb">前</span><span class="rt">まえ</span></span>に<span class="ruby"><span class="rb">進</span><span class="rt">すすむ</span></span>メェ～<br>
-ひつじのショーンさ<br>
-メェ～ ひつじのショーンさ！<br>
-        </div>
+# ひつじのショーン
+
+ひつじのショーン
+ひつじのショーン
+からかっちゃうよ
+なんだって誰だって
+忘れないよ
+本当に有名な
+ひつじのショーンさ
+
+ひつじのショーン
+ひつじのショーン
+転んでもただじゃ起きないぜ
+どこまでも 前に進むメェ～
+ひつじのショーンさ
+メェ～ ひつじのショーンさ！
