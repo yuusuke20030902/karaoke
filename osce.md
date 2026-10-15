@@ -1,6 +1,7 @@
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 # 医学系OSCE動画配信システム（教育・学修用動画）
 - 1__. [臨床実習前OSCE教育・学修用（医療面接）](https://stream.cato.or.jp/products/play.php?product_id=7131) 16 分
+   - [.mp4.m3u8](https://fms.m-shopper.net/hls-vod/UDX-000151-FMS-01/hard_link/17319400626ad03fdcb1df60c3.mp4.m3u8)
 - 2__. [臨床実習前OSCE教育・学修用（全身状態とﾊﾞｲﾀﾙｻｲﾝ）](https://stream.cato.or.jp/products/play.php?product_id=7140) 28 分
 - 3__. [臨床実習前OSCE教育・学修用（頭頸部）](https://stream.cato.or.jp/products/play.php?product_id=7146) 13 分
 - 4-1. [臨床実習前OSCE教育・学修用（胸部1・身体診察）](https://stream.cato.or.jp/products/play.php?product_id=7132) 28 分
