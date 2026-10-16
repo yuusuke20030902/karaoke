@@ -31,6 +31,10 @@
 - 11_. [共用試験医学系OSCEを受験するにあたっての注意 受験者用](https://stream.cato.or.jp/products/play.php?product_id=7139) 7 分
    - [.mp4.m3u8](https://fms.m-shopper.net/hls-vod/UDX-000151-FMS-01/hard_link/16597369116ad1a2da7fd07cb4.mp4.m3u8)
 
+https://github.com/yuusuke20030902/karaoke/edit/main/osce.md
+
 318 分
+
 document.querySelector("#flowplayer > div.fp-player > video > source:nth-child(1)").src
+
 ffmpeg -i "動画のURL.mp4.m3u8" -c copy output.mp4
