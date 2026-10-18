@@ -24,4 +24,3 @@
 - 10_. [臨床実習前OSCE教育・学修用（救急）](https://stream.cato.or.jp/products/play.php?product_id=7129) 75 分
    - [学評 救急](https://www.cato.or.jp/pdf/hyouka_1.1.pdf#page=79)
 - 11_. [共用試験医学系OSCEを受験するにあたっての注意 受験者用](https://stream.cato.or.jp/products/play.php?product_id=7139) 7 分
-   - [学評](https://www.cato.or.jp/pdf/hyouka_1.1.pdf#page=)
