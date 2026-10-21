@@ -1,3 +1,4 @@
+<title>JOY</title>
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 # 目次
 - [#仮面ライダー](#仮面ライダー)
@@ -166,7 +167,7 @@
 **ゼロワン** / [検索](https://www.joysound.com/web/search/cross?keyword=ゼロワン)
 - [REAL×EYEZ](intent://navigation?naviGrpId=820483&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=REAL×EYEZ)
 - S.O.S [0] / [検索](https://www.joysound.com/web/search/cross?keyword=S.O.S)
-- Frontier [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Frontier) / short?
+- [Frontier](intent://navigation?naviGrpId=1083787&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Frontier) / short?
 
 **セイバー** / [検索](https://www.joysound.com/web/search/cross?keyword=セイバー)
 - ALMIGHTY～仮面の約束 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ALMIGHTY～仮面の約束)
@@ -256,7 +257,7 @@
 
 **ギャバン** / [検索](https://www.joysound.com/web/search/cross?keyword=ギャバン)
 - [LOVE IS THE STRONGEST](intent://navigation?naviGrpId=1161889&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=LOVE%20IS%20THE%20STRONGEST)
-  - [short](intent://navigation?naviGrpId=1161889&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 曲JOY / 映像JOY / short
+  - [short](intent://navigation?naviGrpId=1177301&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 曲JOY / 映像JOY / short
 - [What's a Hero](intent://navigation?naviGrpId=1165892&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=What's%20a%20Hero)
 - [Emotionalism](intent://navigation?naviGrpId=1197676&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=Emotionalism)
 
@@ -367,25 +368,34 @@
 
 **1** / [検索](https://www.joysound.com/web/search/cross?keyword=1)
 - 紅蓮の弓矢 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の弓矢) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の弓矢)
+  - short
 - 美しき残酷な世界 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=美しき残酷な世界)
+  - short
 - ~~紅蓮の座標~~ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の座標) / 曲DAM / short / [歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の座標)
 - 自由の翼 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=自由の翼) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#自由の翼)
+  - short
 - great escape [0] / [検索](https://www.joysound.com/web/search/cross?keyword=great%20escape)
+  - short
+  - short
 
 **2** / [検索](https://www.joysound.com/web/search/cross?keyword=2)
 - 心臓を捧げよ! [0] / [検索](https://www.joysound.com/web/search/cross?keyword=心臓を捧げよ%21) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#心臓を捧げよ)
+  - short
 - 夕暮れの鳥 / [検索](https://www.joysound.com/web/search/cross?keyword=夕暮れの鳥)
 
 **3** / [検索](https://www.joysound.com/web/search/cross?keyword=3)
 - Red Swan [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Red%20Swan)
+  - short
 - 暁の鎮魂歌 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=暁の鎮魂歌) / フルDAM / [歌詞](https://yuusuke20030902.github.io/karaoke/text#暁の鎮魂歌)
 - 憧憬と屍の道 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=憧憬と屍の道) / フルDAM / [歌詞](https://yuusuke20030902.github.io/karaoke/text#憧憬と屍の道)
 - Name of Love [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Name%20of%20Love)
 
 **F** / [検索](https://www.joysound.com/web/search/cross?keyword=F)
 - 僕の戦争 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=僕の戦争)
+  - short
 - 衝撃 [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=衝撃)
 - The Rumbling [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=The%20Rumbling)
+  - short
 - 悪魔の子 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=悪魔の子) / 映像DAM
 - UNDER THE TREE [0] / [検索](https://www.joysound.com/web/search/cross?keyword=UNDER%20THE%20TREE) / フルDAM / キー変えむずい、歌詞むずい
 - 最後の巨人 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最後の巨人) / フルDAM / [歌詞](https://yuusuke20030902.github.io/karaoke/text#最後の巨人)
