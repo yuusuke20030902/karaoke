@@ -1,5 +1,6 @@
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 # 医学系OSCE動画配信システム（教育・学修用動画）
+[配信システム ログイン](https://stream.cato.or.jp/mypage/login.php)
 [学評 目次](https://www.cato.or.jp/pdf/hyouka_1.1.pdf#page=3)
 - 1__. [臨床実習前OSCE教育・学修用（医療面接）](https://stream.cato.or.jp/products/play.php?product_id=7131) 16 分
    - [学評 医療面接](https://www.cato.or.jp/pdf/hyouka_1.1.pdf#page=14)
