@@ -1,5 +1,5 @@
 ---
-title: OSCE
+title: JOY
 ---
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 
@@ -373,12 +373,10 @@ title: OSCE
 - 紅蓮の弓矢 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の弓矢) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の弓矢)
   - TVサイズver. / 曲JOY / 映像JOY
 - 美しき残酷な世界 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=美しき残酷な世界)
-  - TVサイズver.
 - ~~紅蓮の座標~~ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=紅蓮の座標) / 曲DAM / 短縮DAM / [歌詞](https://yuusuke20030902.github.io/karaoke/text#紅蓮の座標)
 - 自由の翼 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=自由の翼) / [歌詞](https://yuusuke20030902.github.io/karaoke/text#自由の翼)
   - TVサイズver. / 曲JOY / 映像JOY
 - great escape [0] / [検索](https://www.joysound.com/web/search/cross?keyword=great%20escape)
-  - TVサイズver.
   - [alternate ver.](intent://navigation?naviGrpId=259546&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end)
 
 **2** / [検索](https://www.joysound.com/web/search/cross?keyword=2)
@@ -388,17 +386,14 @@ title: OSCE
 
 **3** / [検索](https://www.joysound.com/web/search/cross?keyword=3)
 - Red Swan [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Red%20Swan)
-  - TVサイズver.
 - 暁の鎮魂歌 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=暁の鎮魂歌) / 映像JOYのみ / 短縮JOYのみ / [歌詞](https://yuusuke20030902.github.io/karaoke/text#暁の鎮魂歌)
 - 憧憬と屍の道 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=憧憬と屍の道) / 映像JOYのみ / 短縮JOYのみ / [歌詞](https://yuusuke20030902.github.io/karaoke/text#憧憬と屍の道)
 - Name of Love [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Name%20of%20Love)
 
 **F** / [検索](https://www.joysound.com/web/search/cross?keyword=F)
 - 僕の戦争 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=僕の戦争) / 映像両方
-  - TV Size
 - 衝撃 [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=衝撃) / 映像JOYのみ
 - The Rumbling [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=The%20Rumbling)
-  - TV Size
 - 悪魔の子 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=悪魔の子) / 映像DAMのみ
 - UNDER THE TREE [0] / [検索](https://www.joysound.com/web/search/cross?keyword=UNDER%20THE%20TREE) / 短縮JOYのみ / キー変えむずい、歌詞むずい
 - ~~最後の巨人~~ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=最後の巨人) / 曲DAM / 映像なし / 短縮なし / [歌詞](https://yuusuke20030902.github.io/karaoke/text#最後の巨人)
