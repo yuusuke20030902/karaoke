@@ -1,5 +1,17 @@
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 
+# 超宇宙刑事ギャバンインフィニティ
+蒸着
+
+それはギャバンシステム発動のコマンドだ
+
+では蒸着プロセスをもう一度見てみよう
+
+蒸着コマンドを受けて臨界点を越えたエモルギーが、トリガー内に凝縮されたギャバリオン粒子と融合
+
+僅か1ミリ秒でコンバットスーツへと投射成形され、蒸着を完了するのだ
+
+
 # [紅蓮の弓矢](https://lyricstranslate.com/ja/attack-titan-ost-紅蓮の弓矢-lyrics.html)
 
 > その日 人類は思い出した
