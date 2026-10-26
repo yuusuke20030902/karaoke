@@ -1,3 +1,6 @@
+---
+title: TEXT
+---
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 
 # 超宇宙刑事ギャバンインフィニティ
