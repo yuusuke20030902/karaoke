@@ -660,21 +660,22 @@ title: JOY
 ## 東方
  / [検索](https://www.joysound.com/web/search/cross?keyword=東方) / [#目次](#目次)
 - ~~星色夜空~~ [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=星色夜空) / 曲DAMのみ
-- 君のための幻想歌 [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=君のための幻想歌)
-- 人間が大好きなこわれた妖怪の唄 [(+3)] / [検索](https://www.joysound.com/web/search/cross?keyword=人間が大好きなこわれた妖怪の唄)
-- Bad Apple!! [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Bad%20Apple%21%21) / 映像両方
-- Help me,ERI [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Help%20me,ERI) / 映像DAMのみ
-- チルノのパーフェクトさんすう教室 [0] / [検索](https://www.joysound.com/web/search/cross?keyword=チルノのパーフェクトさんすう教室)
+- [君のための幻想歌](intent://navigation?naviGrpId=301157&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=君のための幻想歌) / 映像JOYなし
+- [人間が大好きなこわれた妖怪の唄](intent://navigation?naviGrpId=301157&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [(+3)] / [検索](https://www.joysound.com/web/search/cross?keyword=人間が大好きなこわれた妖怪の唄) / 映像JOYなし
+- [Bad Apple!!](intent://navigation?naviGrpId=828730&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Bad%20Apple%21%21) / 映像両方
+- [Help me,ERI](intent://navigation?naviGrpId=828730&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=Help%20me,ERI) / 映像DAMのみ
+- [チルノのパーフェクトさんすう教室](intent://navigation?naviGrpId=126354&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=チルノのパーフェクトさんすう教室) / 映像なし
+  - [Short.ver](intent://navigation?naviGrpId=126354&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 曲JOYのみ / 映像あり
 
 **幽閉サテライト** / [検索](https://www.joysound.com/web/search/cross?keyword=幽閉サテライト) / オリカラはガイドメロディー不可
-- 色は匂へど 散りぬるを [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=色は匂へど%20散りぬるを) / 映像DAMのみ
-- 月に叢雲華に風 [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=月に叢雲華に風) / 映像DAMのみ
-- 泡沫、哀のまほろば [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=泡沫、哀のまほろば) / 映像DAMのみ
-- 孤独月 [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=孤独月) / 映像DAMのみ
-- ヒトリシズカ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ヒトリシズカ)
-- 華鳥風月 [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=華鳥風月)
-- 無邪気さへの上書き [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=無邪気さへの上書き)
-- カフカなる群青へ [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=カフカなる群青へ)
+- [色は匂へど 散りぬるを](intent://navigation?naviGrpId=185241&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=色は匂へど%20散りぬるを) / 映像DAMのみ
+- [月に叢雲華に風](intent://navigation?naviGrpId=229479&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=月に叢雲華に風) / 映像DAMのみ
+- [泡沫、哀のまほろば](intent://navigation?naviGrpId=405535&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=泡沫、哀のまほろば) / 映像DAMのみ
+- [孤独月](intent://navigation?naviGrpId=171122&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=孤独月) / 映像DAMのみ
+- [ヒトリシズカ](intent://navigation?naviGrpId=405536&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=ヒトリシズカ) / 映像なし
+- [華鳥風月](intent://navigation?naviGrpId=408194&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=華鳥風月) / 映像なし
+- [無邪気さへの上書き](intent://navigation?naviGrpId=221092&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=無邪気さへの上書き) / 映像なし
+- [カフカなる群青へ](intent://navigation?naviGrpId=405201&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=カフカなる群青へ) / 映像なし
 
 ## ボカロ
  / [検索](https://www.joysound.com/web/search/cross?keyword=ボカロ) / [#目次](#目次)
