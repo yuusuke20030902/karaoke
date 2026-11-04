@@ -213,6 +213,24 @@ Feiern wir diesen Sieg, für den nächsten Kampf!
 Der Feind ist riesig Wir springen
 Der Feind ist grausam
 
+# great escape
+
+しかし、私は人類が生き残るための、大きな可能性をつかんだと考えます。
+---
+人間が巨人化するなど、想像さえしていなかった頃と比較すれば、敵の一人を拘束したことは、大きな前進です。
+
+そう、奴らは必ずいるのです。
+
+一人残らず追い詰めましょう。
+---
+壁の中にいる巨人を、全て。
+
+今度は我々が進撃する番です。
+---
+調査兵団と、エレン・イェーガーの王都召喚は凍結され、地下深くに収容された、アニ・レオンハートの管理は、調査兵団に委ねられた。
+
+しかし、人類は、自分たちが何に囚われているのかを知るのは、まだ時間と犠牲が必要だった。
+
 # [心臓を捧げよ！](https://lyricstranslate.com/ja/shingeki-no-kyojin-ost-shinzo-o-sasageyo-lyrics)
 
 > Widmen das Herz
