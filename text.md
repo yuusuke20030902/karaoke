@@ -54,108 +54,148 @@ Nein, wir sind die Jäger!
 > Feuerroter Pfeil und Bogen
 
 踏まれた花の 名前も知らずに
+
 地に墜ちた鳥は 風を待ち侘びる
 
 祈ったところで 何も変わらない
+
 今を変えるのは 戦う覚悟だ
 
 屍踏み越えて 進む意志を 嗤う豚よ
+
 家畜の安寧 虚偽の繁栄
+
 死せる餓狼の自由を
 
 囚われた屈辱は 反撃の嚆矢だ
+
 城壁の其の彼方 獲物を屠るイェーガー
+
 迸る殺意(しょうどう)に 其の身を灼きながら
+
 黄昏に緋を穿つ 紅蓮の弓矢
 
 矢を番え追い駈ける 標的(やつ)は逃さない
+
 矢を放ち追い詰める 決して逃さない
+
 限界まで引き絞る はち切れそうな弦
+
 標的(やつ)が息絶えるまで 何度でも放つ
 
 獲物を殺すのは
+
 凶器(どうぐ)でも 技術でもない
+
 研ぎ澄まされた お前自身の殺意だ
 
 Wir sind die Jäger
+
 焔のように熱く
+
 Wir sind die Jäger
+
 氷のように冷ややかに
+
 Wir sind die Jäger
+
 己を矢に込めて
+
 Wir sind die Jäger
+
 全てを貫いて征け
 
 > Angriff auf die Titanen
-Der Junge von einst wird bald zum Schwert greifen
-Wer nur seine Machtlosigkeit beklagt, kann nichts verändern
-Der Junge von einst wird bald zum schwarze Schwert ergreifen
-Hass und Zorn sind ein zweischneidige Klinge
-Bald eines Tages wird er dem Schicksal die Zähne zeigen
+
+> Der Junge von einst wird bald zum Schwert greifen
+
+> Wer nur seine Machtlosigkeit beklagt, kann nichts verändern
+
+> Der Junge von einst wird bald zum schwarze Schwert ergreifen
+
+> Hass und Zorn sind ein zweischneidige Klinge
+
+> Bald eines Tages wird er dem Schicksal die Zähne zeigen
 
 何かを変える事が出来るのは
+
 何かを捨てる事が出来るもの
+
 何ひとつリスク等 背負わないままで 何かが叶う等
 
 暗愚の想定 唯の幻影 今は無謀な勇気も
+
 自由の尖兵 賭けの攻勢
+
 奔る奴隷に勝利を
 
 架せられた不条理は 進撃の嚆矢だ
+
 奪われた其の地平 自由(せかい)を望むエレン
+
 止めどなき殺意(しょうどう)に 其の身を侵されながら
+
 宵闇に紫(し)を運ぶ 冥府の弓矢
 
 # [紅蓮の座標](https://lyricstranslate.com/ja/attack-titan-ost-guren-no-zahyou-lyrics.html)
 
 狩人だと嘯いた お前は餓えた獣
+
 「馴れ合うくらいなら
+
 死んだ方がマシだ」と吠えた
 
  血に塗れた屍の 光無き瞳が射る
+
 「牙を無くすのなら
+
 いずれ憾むだろう」と唄う
 
 不条理なもんさ 人類(おれたち)は
+
 小さな勝利でさえ
+
 引き換えるには 余りにも
+
 大きな代償(リスク)を背負わされる
 
 犬死にしたい訳じゃない なぁ
+
 死んでも死にきれないだろ?
+
 その遺志は 無駄じゃない
+
 このままじゃ 終わらせない
+
 奴等を 根絶やしにする迄は
 
 この美しい残酷な世界では
 
 夕闇に染まるのは 標的か己か
+
 弓なりに弾け跳び 獲物を屠れ イエーガー
+
 黄昏に放たれた 迸る衝動(さつい)が
+
 群れを成し穿つのは
 
 紅蓮の座標
 
 ---
-楽園を彷徨える 哀れな人影
+> 楽園を彷徨える 哀れな人影
 彼らにも 大切な 誰かがいただろう
-
 真実を求めても 歪な硝子は
 異なった虚像を映す 覗き込む顔の数だけ
-
 不条理なもんさ 世界(げんじつ)は
 僅かな好機でさえ
 手に入れるには 余りにも過剰な
 対価(コスト)を払わされる
-
 犬死にさせたままじゃ なぁ
 悔いても悔い足りないだろう?
 この遺志よ 時を超え
 何度でも 受け継がれ
 その道を 報われるまで進め
-
 この美しい残酷な世界では
-
 夕暮れに揺れるのは 哀しみか憎悪か
 購える罪を抱き 獲物を屠る クリーガー
 憧憬(あこがれ)に呪われた
@@ -163,6 +203,8 @@ Bald eines Tages wird er dem Schicksal die Zähne zeigen
 名を変えて辿るのは
 
 紅蓮の座標
+
+---
 
 吠えることしか出来なかった
 あの日の少年は 武器を取り
