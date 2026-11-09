@@ -586,7 +586,10 @@ title: DAM
 - WE GOTTA POWER [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=WE%20GOTTA%20POWER) / 映像両方
 - [僕達は天使だった](intent://reserve/?reqno=285505#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原] / [検索](https://www.clubdam.com/karaokesearch/?keyword=僕達は天使だった) / 映像DAMのみ
 - DAN DAN 心魅かれてく [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=DAN%20DAN%20心魅かれてく) / 映像両方
+- やぶれかぶれ [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=やぶれかぶれ)
+- 空前絶後 [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=空前絶後)
 - Deagon Soul [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Deagon%20Soul)
+- 超絶☆ダイナミック [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=超絶☆ダイナミック)
 - HERO ～希望の歌～ [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=HERO%20～希望の歌～)
 - [限界突破×サバイバー](intent://reserve/?reqno=602609#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=限界突破×サバイバー) / 映像両方
 - 究極の聖戦 [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=究極の聖戦)
@@ -646,7 +649,7 @@ title: DAM
 **ちいかわ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ちいかわ)
 - [ひとりごつ](intent://reserve/?reqno=460694#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ひとりごつ) / 歌詞むずい
 - [くつずれ](intent://reserve/?reqno=152173#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=くつずれ)
-- 島のうた [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=島のうた)
+- [島のうた](intent://reserve/?reqno=156155#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=島のうた)
 - [机さする](intent://reserve/?reqno=152174#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=机さする)
 
 **ジブリ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ジブリ)
@@ -735,8 +738,8 @@ title: DAM
 **嵐** / [検索](https://www.clubdam.com/karaokesearch/?keyword=嵐)
 - Happiness [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Happiness)
 - Monster [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Monster)
-- One Love [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=One%20Love)
-- Love so sweet [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Love%20so%20sweet)
+- One Love [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=One%20Love)
+- Love so sweet [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Love%20so%20sweet)
 
 **Mrs. GREEN APPLE** / [検索](https://www.clubdam.com/karaokesearch/?keyword=Mrs.%20GREEN%20APPLE)
 - 夏の影 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=夏の影)
@@ -768,10 +771,10 @@ title: DAM
 - AMBITIOUS JAPAN! [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=AMBITIOUS%20JAPAN%21)
 
 **M!LK** / [検索](https://www.clubdam.com/karaokesearch/?keyword=M%21LK)
-- イイじゃん / [検索](https://www.clubdam.com/karaokesearch/?keyword=イイじゃん)
+- イイじゃん [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=イイじゃん)
 - 好きすぎて滅! [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=好きすぎて滅%21) / まさるふわちゃん
 - 爆裂愛してる [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=爆裂愛してる)
-- 爆裂愛しすぎて滅! / [検索](https://www.clubdam.com/karaokesearch/?keyword=爆裂愛しすぎて滅%21)
+- 爆裂愛しすぎて滅! [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=爆裂愛しすぎて滅%21)
 
 **往年** / [検索](https://www.clubdam.com/karaokesearch/?keyword=往年)
 - ロマンスの神様 [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ロマンスの神様)
@@ -785,7 +788,7 @@ title: DAM
 - カブトムシ / [検索](https://www.clubdam.com/karaokesearch/?keyword=カブトムシ)
 - 全力少年 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=全力少年)
 - さくらんぼ / [検索](https://www.clubdam.com/karaokesearch/?keyword=さくらんぼ)
-- リンダリンダ [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=リンダリンダ) / 映像両方 / JOY途中知らない
+- リンダリンダ [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=リンダリンダ) / 映像両方 / JOY途中知らない?
 - 小さな恋の歌 [(+1)] / [検索](https://www.clubdam.com/karaokesearch/?keyword=小さな恋の歌)
 - サウダージ [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=サウダージ)
 - 負けないで [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=負けないで) / 映像JOYあり
