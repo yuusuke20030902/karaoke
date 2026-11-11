@@ -30,6 +30,12 @@ title: JOY
 - 仮面ライダーBLACK [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーBLACK)
 - 仮面ライダーBLACK RX [0] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダーBLACK%20RX)
 
+**平成** / [検索](https://www.joysound.com/web/search/cross?keyword=平成)
+- [平成仮面ライダーオープニングメドレー](intent://navigation?naviGrpId=46108&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=平成仮面ライダーオープニングメドレー) / 曲JOYのみ / 6:09, ファイズ,アギト一番,龍騎,クウガ,ブレイド前期ラスサビ,全部フル
+- [平成仮面ライダーシリーズメドレー1](intent://navigation?naviGrpId=404748&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=平成仮面ライダーシリーズメドレー1) / 曲JOYのみ
+- [平成仮面ライダーシリーズメドレー2](intent://navigation?naviGrpId=404749&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=平成仮面ライダーシリーズメドレー2) / 曲JOYのみ
+- [平成仮面ライダーシリーズメドレー3](intent://navigation?naviGrpId=405957&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=平成仮面ライダーシリーズメドレー3) / 曲JOYのみ / 4:09,フォーゼ,オーズ,ダブル,ウィザード,鎧武ラスサビ前から
+
 **クウガ** / [検索](https://www.joysound.com/web/search/cross?keyword=クウガ)
 - 仮面ライダークウガ! [原-6] / [検索](https://www.joysound.com/web/search/cross?keyword=仮面ライダークウガ%21)
 
@@ -250,7 +256,7 @@ title: JOY
 
 **ドンブラ** / [検索](https://www.joysound.com/web/search/cross?keyword=ドンブラ)
 - [俺こそオンリーワン](intent://navigation?naviGrpId=915484&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=俺こそオンリーワン) / 映像両方
-- Don't Boo！ドンブラザーズ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=Don't%20Boo！ドンブラザーズ) / 映像DAMのみ
+- [Don't Boo！ドンブラザーズ](intent://navigation?naviGrpId=917973&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=Don't%20Boo！ドンブラザーズ) / 映像DAMのみ
 
 **キングオ** / [検索](https://www.joysound.com/web/search/cross?keyword=キングオ)
 - 全力キング [-4,-3?] / [検索](https://www.joysound.com/web/search/cross?keyword=全力キング)
@@ -303,6 +309,7 @@ title: JOY
 **ジード** / [検索](https://www.joysound.com/web/search/cross?keyword=ジード)
 - GEEDの証 [(+1)] / [検索](https://www.joysound.com/web/search/cross?keyword=GEEDの証) / 映像DAM WAOのみ
 - キボウノカケラ [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=キボウノカケラ) / 映像DAM WAOのみ
+- [フュージョンライズ!](intent://navigation?naviGrpId=659172&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=フュージョンライズ%21) / 曲JOYのみ
 
 **ルーブ** / [検索](https://www.joysound.com/web/search/cross?keyword=ルーブ)
 - Hands [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=Hands) / 映像DAM WAOのみ
@@ -370,7 +377,7 @@ title: JOY
 
 **天気の子** / [検索](https://www.joysound.com/web/search/cross?keyword=天気の子)
 - [風たちの声](intent://navigation?naviGrpId=795800&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=風たちの声) / 4:14
-  - [風たちの声 (Movie edit)](intent://navigation?naviGrpId=773665&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 2:38
+  - [Movie edit](intent://navigation?naviGrpId=773665&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 2:38
 - [祝祭 feat.三浦透子](intent://navigation?naviGrpId=805313&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=祝祭%20feat.三浦透子) / 4:35
   - [Movie edit](intent://navigation?naviGrpId=773666&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 2:37
 - [愛にできることはまだあるかい](intent://navigation?naviGrpId=764966&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=愛にできることはまだあるかい) / 6:55,テンポ+1、君がくれた勇気まで静か
@@ -591,6 +598,8 @@ title: JOY
 - Get Wild [(+1)?] / [検索](https://www.joysound.com/web/search/cross?keyword=Get%20Wild)
 - [宇宙戦艦ヤマト](intent://navigation?naviGrpId=5337&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [(+6)?] / [検索](https://www.joysound.com/web/search/cross?keyword=宇宙戦艦ヤマト) / 映像両方
 - [ルパン三世のテーマ](intent://navigation?naviGrpId=8660&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-3?] / [検索](https://www.joysound.com/web/search/cross?keyword=ルパン三世のテーマ) / 映像両方
+- [Let It Go～ありのままで～](intent://navigation?naviGrpId=405267&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Let%20It%20Go～ありのままで～)
+- [とびら開けて](intent://navigation?naviGrpId=405307&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=とびら開けて)
 
 **ドラゴンボール** / [検索](https://www.joysound.com/web/search/cross?keyword=ドラゴンボール)
 - [魔訶不思議アドベンチャー!](intent://navigation?naviGrpId=7690&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=魔訶不思議アドベンチャー%21) / 映像両方
@@ -770,6 +779,7 @@ title: JOY
 - [ヘッドライト・テールライト](intent://navigation?naviGrpId=10826&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ヘッドライト・テールライト)
 - [糸](intent://navigation?naviGrpId=7141&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=糸)
 - [空と君のあいだに](intent://navigation?naviGrpId=2394&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=空と君のあいだに) / 映像DAMのみ / むずい
+- [銀の龍の背に乗って](intent://navigation?naviGrpId=27578&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=銀の龍の背に乗って)
 
 **槇原敬之** / [検索](https://www.joysound.com/web/search/cross?keyword=槇原敬之)
 - [もう恋なんてしない](intent://navigation?naviGrpId=3656&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [原] / [検索](https://www.joysound.com/web/search/cross?keyword=もう恋なんてしない) / 映像DAMのみ
