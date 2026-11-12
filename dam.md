@@ -88,18 +88,8 @@ GIRLS' LEGEND U  - [ゲームサイズVer.](intent://reserve/?reqno=116125#Inten
 うまぴょい伝説  - [ゲームサイズVer.](intent://reserve/?reqno=116127#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / 曲DAMのみ / 映像WAO
 ウィーアー!  - [東方神起](intent://reserve/?reqno=744635#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / 曲DAMのみ / 映像あり
 - [memories](intent://reserve/?reqno=646404#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- [Believe](intent://reserve/?reqno=638803#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Believe) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- [ヒカリへ](intent://reserve/?reqno=360210#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒカリへ) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#ヒカリへ)
-- [BON VOYAGE！](intent://reserve/?reqno=431603#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5,-6?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BON%20VOYAGE！) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7235#bon-voyage)
-- [ココロのちず](intent://reserve/?reqno=346308#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ココロのちず) / 映像DAMあり
-- [BRAND NEW WORLD](intent://reserve/?reqno=377903#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BRAND%20NEW%20WORLD) / 映像DAMあり
-- [Share The World](intent://reserve/?reqno=744652#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0,-2?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Share%20The%20World) / 映像DAMあり
-- [One day](intent://reserve/?reqno=574604#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=One%20day) / 映像DAMあり
-- [ウィーゴー](intent://reserve/?reqno=628427#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ウィーゴー) / 映像DAMあり / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ウィーゴー) / 一味=原+4
-- [最高到達点](intent://reserve/?reqno=584823#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=最高到達点) / 映像DAMあり
-- [あーーっす!](intent://reserve/?reqno=628458#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=あーーっす%21) / 映像DAMあり
-- [天使と悪魔](intent://reserve/?reqno=134318#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=天使と悪魔) / 映像DAMあり
-- [カーマイン](intent://reserve/?reqno=134449#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=カーマイン) / 映像DAMあり
+- [ココロのちず](intent://reserve/?reqno=346308#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ココロのちず) / 映像DAMのみ
+- [BRAND NEW WORLD](intent://reserve/?reqno=377903#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BRAND%20NEW%20WORLD) / 映像DAMのみ
 - [ボクノート](intent://reserve/?reqno=502619#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ボクノート) / 映像DAMのみ
 - [アムとイムのうた](intent://reserve/?reqno=455462#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=アムとイムのうた) / 曲DAMのみ / DAM採点不可
 - [ニャバダ・ワンダフル](intent://reserve/?reqno=336808#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ニャバダ・ワンダフル) / 曲DAMのみ
@@ -118,6 +108,8 @@ GIRLS' LEGEND U  - [ゲームサイズVer.](intent://reserve/?reqno=116125#Inten
 - [ドラえもんのうた](intent://reserve/?reqno=290923#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ドラえもんのうた) / 映像DAMのみ
 - [僕達は天使だった](intent://reserve/?reqno=285505#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原] / [検索](https://www.clubdam.com/karaokesearch/?keyword=僕達は天使だった) / 映像DAMのみ
 - [ガーネット](intent://reserve/?reqno=284950#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ガーネット) / 映像DAMのみ
+- [V](intent://reserve/?reqno=542466#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=V) / 映像DAMのみ
+- [XY&Z](intent://reserve/?reqno=533731#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=XY&Z) / 映像DAMのみ
 - [1・2・3](intent://reserve/?reqno=450177#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=1・2・3) / 映像DAMのみ / DAMハモリはデュエット採点、ゆーいち
 - [IRIS OUT](intent://reserve/?reqno=118072#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=IRIS%20OUT) / 映像JOY･DAM Ai
 - [星色夜空](intent://reserve/?reqno=747598#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=星色夜空) / 曲DAMのみ
@@ -126,6 +118,7 @@ GIRLS' LEGEND U  - [ゲームサイズVer.](intent://reserve/?reqno=116125#Inten
 - [月に叢雲華に風](intent://reserve/?reqno=366227#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=月に叢雲華に風) / 映像DAMのみ
 - [泡沫、哀のまほろば](intent://reserve/?reqno=747189#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=泡沫、哀のまほろば) / 映像DAMのみ
 - [孤独月](intent://reserve/?reqno=366229#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=孤独月) / 映像DAMのみ
+- 夜桜に君を隠して / [検索](https://www.clubdam.com/karaokesearch/?keyword=夜桜に君を隠して) / 曲DAMのみ
 - 地上の星 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=地上の星) / 映像DAMのみ
 - 空と君のあいだに [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=空と君のあいだに) / 映像DAMのみ / むずい
 - [もう恋なんてしない](intent://reserve/?reqno=571214#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原] / [検索](https://www.clubdam.com/karaokesearch/?keyword=もう恋なんてしない) / 映像DAMのみ
@@ -203,6 +196,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
  / [検索](https://www.clubdam.com/karaokesearch/?keyword=仮面ライダー) / [#目次](#目次)
 
 **昭和** / [検索](https://www.clubdam.com/karaokesearch/?keyword=昭和)
+- ドラゴン・ロード / [検索](https://www.clubdam.com/karaokesearch/?keyword=ドラゴン・ロード)
 - 仮面ライダーBLACK [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=仮面ライダーBLACK)
 - 仮面ライダーBLACK RX [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=仮面ライダーBLACK%20RX)
 
@@ -409,12 +403,12 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - 特捜戦隊デカレンジャー [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=特捜戦隊デカレンジャー)
 - 魔法戦隊マジレンジャー [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=魔法戦隊マジレンジャー)
 - 轟轟戦隊ボウケンジャー [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=轟轟戦隊ボウケンジャー)
-- 炎神戦隊ゴーオンジャー [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=炎神戦隊ゴーオンジャー) / 映像JOYあり
+- [炎神戦隊ゴーオンジャー](intent://reserve/?reqno=324816#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=炎神戦隊ゴーオンジャー) / 映像JOYのみ
 - 侍戦隊シンケンジャー [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=侍戦隊シンケンジャー)
 - 天装戦隊ゴセイジャー [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=天装戦隊ゴセイジャー)
 
 **ゴーカイ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ゴーカイ)
-- 海賊戦隊ゴーカイジャー [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=海賊戦隊ゴーカイジャー) / 映像JOYあり
+- [海賊戦隊ゴーカイジャー](intent://reserve/?reqno=693611#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=海賊戦隊ゴーカイジャー) / 映像両方
 - スーパー戦隊 ヒーローゲッター [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=スーパー戦隊%20ヒーローゲッター)
 - 海賊合体!ゴーカイオー [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=海賊合体%21ゴーカイオー)
 - 豪快全開ダッシュ!! [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=豪快全開ダッシュ%21%21)
@@ -422,7 +416,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 
 **-**
 - バスターズ レディーゴー! [(+1)] / [検索](https://www.clubdam.com/karaokesearch/?keyword=バスターズ%20レディーゴー%21)
-- VAMOLA!キョウリュウジャー [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=VAMOLA%21キョウリュウジャー) / 映像JOYあり
+- [VAMOLA!キョウリュウジャー](intent://reserve/?reqno=359941#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=VAMOLA%21キョウリュウジャー) / 映像両方
 - 烈車戦隊トッキュウジャー [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=烈車戦隊トッキュウジャー)
 - 動物戦隊ジュウオウジャー [+3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=動物戦隊ジュウオウジャー)
 - LUCKYSTAR [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=LUCKYSTAR)
@@ -707,21 +701,22 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - [ウィーアー!](intent://reserve/?reqno=628401#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ウィーアー%21) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ウィーアー) / 一味=原+0
   - [東方神起](intent://reserve/?reqno=744635#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / 曲DAMのみ / 映像あり
 - [memories](intent://reserve/?reqno=646404#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- [Believe](intent://reserve/?reqno=638803#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Believe) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- [ヒカリへ](intent://reserve/?reqno=360210#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒカリへ) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#ヒカリへ)
-- [BON VOYAGE！](intent://reserve/?reqno=431603#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5,-6?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BON%20VOYAGE！) / 映像DAMあり / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7235#bon-voyage)
-- [ココロのちず](intent://reserve/?reqno=346308#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ココロのちず) / 映像DAMあり
-- [BRAND NEW WORLD](intent://reserve/?reqno=377903#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BRAND%20NEW%20WORLD) / 映像DAMあり
-- [Share The World](intent://reserve/?reqno=744652#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0,-2?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Share%20The%20World) / 映像DAMあり
-- [One day](intent://reserve/?reqno=574604#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=One%20day) / 映像DAMあり
+- [Believe](intent://reserve/?reqno=638803#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Believe) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
+- [ヒカリへ](intent://reserve/?reqno=360210#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒカリへ) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#ヒカリへ)
+- [BON VOYAGE！](intent://reserve/?reqno=431603#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5,-6?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BON%20VOYAGE！) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7235#bon-voyage)
+- [ココロのちず](intent://reserve/?reqno=346308#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ココロのちず) / 映像DAMのみ
+- [BRAND NEW WORLD](intent://reserve/?reqno=377903#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3,-4?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=BRAND%20NEW%20WORLD) / 映像DAMのみ
+- [Share The World](intent://reserve/?reqno=744652#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0,-2?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Share%20The%20World) / 映像両方
+- [One day](intent://reserve/?reqno=574604#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=One%20day) / 映像両方
 
 **2年後** / [検索](https://www.clubdam.com/karaokesearch/?keyword=2年後)
-- [ウィーゴー](intent://reserve/?reqno=628427#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ウィーゴー) / 映像DAMあり / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ウィーゴー) / 一味=原+4
-- [最高到達点](intent://reserve/?reqno=584823#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=最高到達点) / 映像DAMあり
+- [ウィーゴー!](intent://reserve/?reqno=628427#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ウィーゴー%21) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ウィーゴー) / 一味=原+4
+  - ~~麦わらの一味Ver.~~ / 曲JOYのみ / 映像あり
+- [最高到達点](intent://reserve/?reqno=584823#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=最高到達点) / 映像両方
 - [Dear sunrise](intent://reserve/?reqno=340312#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Dear%20sunrise) / 映像JOYのみ
-- [あーーっす!](intent://reserve/?reqno=628458#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=あーーっす%21) / 映像DAMあり
-- [天使と悪魔](intent://reserve/?reqno=134318#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=天使と悪魔) / 映像DAMあり
-- [カーマイン](intent://reserve/?reqno=134449#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=カーマイン) / 映像DAMあり
+- [あーーっす!](intent://reserve/?reqno=628458#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=あーーっす%21) / 映像両方
+- [天使と悪魔](intent://reserve/?reqno=134318#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=天使と悪魔) / 映像両方
+- [カーマイン](intent://reserve/?reqno=134449#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=カーマイン) / 映像両方
 
 **FILM RED** / [検索](https://www.clubdam.com/karaokesearch/?keyword=FILM%20RED)
 - 私は最強 [(+1)] / [検索](https://www.clubdam.com/karaokesearch/?keyword=私は最強)
@@ -776,6 +771,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - [ルパン三世のテーマ](intent://reserve/?reqno=670016#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ルパン三世のテーマ) / 映像両方
 - Let It Go～ありのままで～ / [検索](https://www.clubdam.com/karaokesearch/?keyword=Let%20It%20Go～ありのままで～)
 - とびら開けて / [検索](https://www.clubdam.com/karaokesearch/?keyword=とびら開けて)
+- Butter-Fly / [検索](https://www.clubdam.com/karaokesearch/?keyword=Butter-Fly)
 
 **ドラゴンボール** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ドラゴンボール)
 - [魔訶不思議アドベンチャー!](intent://reserve/?reqno=285701#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=魔訶不思議アドベンチャー%21) / 映像両方
@@ -794,7 +790,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - Blizzard [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=Blizzard)
 
 **プリキュア** / [検索](https://www.clubdam.com/karaokesearch/?keyword=プリキュア)
-- [DANZEN!ふたりはプリキュア](intent://reserve/?reqno=111023#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=DANZEN%21ふたりはプリキュア) / 映像JOYあり
+- [DANZEN!ふたりはプリキュア](intent://reserve/?reqno=111023#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=DANZEN%21ふたりはプリキュア) / 映像両方
 
 **メジャー** / [検索](https://www.clubdam.com/karaokesearch/?keyword=メジャー)
 - 心絵 [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=心絵)
@@ -809,10 +805,10 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - 花の塔 [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=花の塔)
 
 **ポケモン** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ポケモン)
-- めざせポケモンマスター [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=めざせポケモンマスター) / 映像JOYあり
-- V [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=V) / 映像JOYなし
-- ゲッタバンバン [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ゲッタバンバン) / 映像JOYなし
-- XY&Z [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=XY&Z) / 映像JOYなし
+- [めざせポケモンマスター](intent://reserve/?reqno=533701#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=めざせポケモンマスター) / 映像両方
+- [V](intent://reserve/?reqno=542466#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=V) / 映像DAMのみ
+- [ゲッタバンバン](intent://reserve/?reqno=596086#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ゲッタバンバン) / 映像なし
+- [XY&Z](intent://reserve/?reqno=533731#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=XY&Z) / 映像DAMのみ
 - [1・2・3](intent://reserve/?reqno=450177#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=1・2・3) / 映像DAMのみ / DAMハモリはデュエット採点、ゆーいち
 
 **クレしん** / [検索](https://www.clubdam.com/karaokesearch/?keyword=クレしん)
@@ -848,6 +844,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - [ひとりごつ](intent://reserve/?reqno=460694#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ひとりごつ) / 歌詞むずい
 - [くつずれ](intent://reserve/?reqno=152173#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=くつずれ) / 最初が高いだけ
 - [島のうた](intent://reserve/?reqno=156155#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=島のうた)
+- 今日の日はさようなら / [検索](https://www.clubdam.com/karaokesearch/?keyword=今日の日はさようなら)
 - [机さする](intent://reserve/?reqno=152174#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-6] / [検索](https://www.clubdam.com/karaokesearch/?keyword=机さする)
 
 **ジブリ** / [検索](https://www.clubdam.com/karaokesearch/?keyword=ジブリ)
@@ -882,10 +879,13 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - [月に叢雲華に風](intent://reserve/?reqno=366227#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=月に叢雲華に風) / 映像DAMのみ
 - [泡沫、哀のまほろば](intent://reserve/?reqno=747189#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=泡沫、哀のまほろば) / 映像DAMのみ
 - [孤独月](intent://reserve/?reqno=366229#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=孤独月) / 映像DAMのみ
-- [ヒトリシズカ](intent://reserve/?reqno=747206#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒトリシズカ) / 映像なし
-- [華鳥風月](intent://reserve/?reqno=747191#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=華鳥風月) / 映像なし
-- [無邪気さへの上書き](intent://reserve/?reqno=747152#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=無邪気さへの上書き) / 映像なし
-- [カフカなる群青へ](intent://reserve/?reqno=747407#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=カフカなる群青へ) / 映像なし
+- [ヒトリシズカ](intent://reserve/?reqno=747206#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ヒトリシズカ)
+- [華鳥風月](intent://reserve/?reqno=747191#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=華鳥風月)
+- [無邪気さへの上書き](intent://reserve/?reqno=747152#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=無邪気さへの上書き)
+- [カフカなる群青へ](intent://reserve/?reqno=747407#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-5] / [検索](https://www.clubdam.com/karaokesearch/?keyword=カフカなる群青へ)
+- Opposite World / [検索](https://www.clubdam.com/karaokesearch/?keyword=Opposite%20World)
+- 零れ桜 / [検索](https://www.clubdam.com/karaokesearch/?keyword=零れ桜)
+- 夜桜に君を隠して / [検索](https://www.clubdam.com/karaokesearch/?keyword=夜桜に君を隠して) / 曲DAMのみ
 
 ## ボカロ
  / [検索](https://www.clubdam.com/karaokesearch/?keyword=ボカロ) / [#目次](#目次)
@@ -978,7 +978,7 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 **往年** / [検索](https://www.clubdam.com/karaokesearch/?keyword=往年)
 - ロマンスの神様 [+4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ロマンスの神様)
 - [フレンズ](intent://reserve/?reqno=159302#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-4] / [検索](https://www.clubdam.com/karaokesearch/?keyword=フレンズ) / 映像両方
-- 粉雪 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=粉雪) / 映像JOYあり
+- [粉雪](intent://reserve/?reqno=525456#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=粉雪) / 映像両方
 - 風になる / [検索](https://www.clubdam.com/karaokesearch/?keyword=風になる)
 - [愛は勝つ](intent://reserve/?reqno=115601#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [原] / [検索](https://www.clubdam.com/karaokesearch/?keyword=愛は勝つ) / 映像DAMのみ
 - イケナイ太陽 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=イケナイ太陽)
@@ -990,11 +990,11 @@ Bittersweet  - [Movie Version](intent://reserve/?reqno=122976#Intent;scheme=denm
 - リンダリンダ [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=リンダリンダ) / 映像両方 / JOY途中知らない?
 - 小さな恋の歌 [(+1)] / [検索](https://www.clubdam.com/karaokesearch/?keyword=小さな恋の歌)
 - サウダージ [-1] / [検索](https://www.clubdam.com/karaokesearch/?keyword=サウダージ)
-- 負けないで [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=負けないで) / 映像JOYあり
+- [負けないで](intent://reserve/?reqno=248873#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=負けないで) / 映像両方
 - 翼をください [原+3] / [検索](https://www.clubdam.com/karaokesearch/?keyword=翼をください)
 
 **あいつら** / [検索](https://www.clubdam.com/karaokesearch/?keyword=あいつら)
-- キセキ [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=キセキ) / 映像JOYあり / JOY本人映像冒頭長い
+- [キセキ](intent://reserve/?reqno=740120#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-2] / [検索](https://www.clubdam.com/karaokesearch/?keyword=キセキ) / 映像両方 / JOY本人映像冒頭長い
 - [ray](intent://reserve/?reqno=152192#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-7] / [検索](https://www.clubdam.com/karaokesearch/?keyword=ray) / 映像両方 / カグヤ=原+12
 - 勿忘 [0] / [検索](https://www.clubdam.com/karaokesearch/?keyword=勿忘)
 - [高嶺の花子さん](intent://reserve/?reqno=586005#Intent;scheme=denmoku;package=jp.co.dkkaraoke.denmokumini01;end) [-1,0?] / [検索](https://www.clubdam.com/karaokesearch/?keyword=高嶺の花子さん)
