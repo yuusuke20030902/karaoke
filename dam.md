@@ -4,7 +4,8 @@ title: DAM
 <style>body{background-color: #121212 !important;color: #e0e0e0 !important;}a{color: #8ab4f8 !important;}</style>
 
 # 目次
-- [#DAM](#dam)
+- [#曲DAMのみ](#曲damのみ)
+- [#映像DAMのみ](#映像damのみ)
 - [#仮面ライダー](#仮面ライダー)
 - [#スーパー戦隊](#スーパー戦隊)
 - [#ウルトラマン](#ウルトラマン)
