@@ -76,7 +76,7 @@ title: JOY
 - [スパートシンドローマー](intent://navigation?naviGrpId=1098965&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=スパートシンドローマー) / 映像JOYのみ
 - [∞](intent://navigation?naviGrpId=1098943&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=∞) / 映像JOYのみ
 - [ふたり](intent://navigation?naviGrpId=1138956&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [+4] / [検索](https://www.joysound.com/web/search/cross?keyword=ふたり) / 映像JOYのみ
-- memories [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
+- memories [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://yuusuke20030902.github.io/karaoke/text#believe)
 - [Dear sunrise](intent://navigation?naviGrpId=1016734&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=Dear%20sunrise) / 映像JOYのみ
 - [キミがいれば](intent://navigation?naviGrpId=35564&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=キミがいれば) / 映像JOYのみ / [ナレ](https://yuusuke20030902.github.io/karaoke/text#コナン) / コナンは-4
 - [IRIS OUT](intent://navigation?naviGrpId=1122881&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=IRIS%20OUT) / 映像JOY･DAM Ai
@@ -592,12 +592,12 @@ title: JOY
 **2年前** / [検索](https://www.joysound.com/web/search/cross?keyword=2年前)
 - [ウィーアー!](intent://navigation?naviGrpId=25784&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [原] / [検索](https://www.joysound.com/web/search/cross?keyword=ウィーアー%21) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ウィーアー) / 一味=原+0
   - ~~東方神起~~ / 曲DAMのみ / 映像あり
-- memories [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- Believe [原-3] / [検索](https://www.joysound.com/web/search/cross?keyword=Believe) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#believe)
-- ヒカリへ / [検索](https://www.joysound.com/web/search/cross?keyword=ヒカリへ) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7233#ヒカリへ)
-- BON VOYAGE！ [-5,-6?] / [検索](https://www.joysound.com/web/search/cross?keyword=BON%20VOYAGE！) / 映像両方 / [ナレ](https://qiita.com/yuusuke20030902/private/104076669491b1ec7235#bon-voyage)
-- ココロのちず [-3,-4?] / [検索](https://www.joysound.com/web/search/cross?keyword=ココロのちず) / 映像DAMのみ
-- BRAND NEW WORLD [-3,-4?] / [検索](https://www.joysound.com/web/search/cross?keyword=BRAND%20NEW%20WORLD) / 映像DAMのみ
+- memories [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=memories) / 映像JOY X1･DAM / [ナレ](https://yuusuke20030902.github.io/karaoke/text#believe)
+- Believe [原-3] / [検索](https://www.joysound.com/web/search/cross?keyword=Believe) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#believe)
+- ヒカリへ / [検索](https://www.joysound.com/web/search/cross?keyword=ヒカリへ) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#ヒカリへ)
+- BON VOYAGE！ [-5,-6?] / [検索](https://www.joysound.com/web/search/cross?keyword=BON%20VOYAGE！) / 映像両方 / [ナレ](https://yuusuke20030902.github.io/karaoke/text#bon-voyage)
+- ココロのちず [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=ココロのちず) / 映像DAMのみ
+- BRAND NEW WORLD [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=BRAND%20NEW%20WORLD) / 映像DAMのみ
 - Share The World [0,-2?] / [検索](https://www.joysound.com/web/search/cross?keyword=Share%20The%20World) / 映像両方
 - One day [0] / [検索](https://www.joysound.com/web/search/cross?keyword=One%20day) / 映像両方
 
@@ -618,19 +618,19 @@ title: JOY
 
 ## ドラえもん
  / [検索](https://www.joysound.com/web/search/cross?keyword=ドラえもん) / [#目次](#目次)
-- [ボクノート](intent://navigation?naviGrpId=20328&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ボクノート) / 映像DAMのみ
+- [ボクノート](intent://navigation?naviGrpId=20328&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [(+1)] / [検索](https://www.joysound.com/web/search/cross?keyword=ボクノート) / 映像DAMのみ
 
 **新鉄人兵団** / [検索](https://www.joysound.com/web/search/cross?keyword=新鉄人兵団)
 - ~~アムとイムのうた~~ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=アムとイムのうた) / 曲DAMのみ / DAM採点不可
 - ~~ニャバダ・ワンダフル~~ [-5] / [検索](https://www.joysound.com/web/search/cross?keyword=ニャバダ・ワンダフル) / 曲DAMのみ
 - ~~羽根をつけたら~~ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=羽根をつけたら) / 曲DAMのみ
 - ~~キミがいてくれるなら~~ / [検索](https://www.joysound.com/web/search/cross?keyword=キミがいてくれるなら) / 曲DAMのみ
-- [友達の唄](intent://navigation?naviGrpId=162726&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=友達の唄) / 映像DAMのみ
+- [友達の唄](intent://navigation?naviGrpId=162726&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [(+1)] / [検索](https://www.joysound.com/web/search/cross?keyword=友達の唄) / 映像DAMのみ
 
 **-**
 - 未来のミュージアム [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=未来のミュージアム) / 映像DAMのみ
 - 僕の心をつくってよ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=僕の心をつくってよ) / 映像DAMのみ
-- ドラえもん(星野源) [(+1)] / [検索](https://www.joysound.com/web/search/cross?keyword=ドラえもん(星野源)) / 映像DAMのみ
+- ドラえもん(星野源) [(+2)] / [検索](https://www.joysound.com/web/search/cross?keyword=ドラえもん(星野源)) / 映像DAMのみ
 - ここにいないあなたへ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=ここにいないあなたへ) / 映像DAMのみ / テンポ+2
 - 空へ [0] / [検索](https://www.joysound.com/web/search/cross?keyword=空へ) / 映像DAMのみ
 - 夢のゆくえ [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=夢のゆくえ) / 映像DAMのみ
@@ -685,8 +685,8 @@ title: JOY
 - [DANZEN!ふたりはプリキュア](intent://navigation?naviGrpId=27492&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=DANZEN%21ふたりはプリキュア) / 映像両方
 
 **メジャー** / [検索](https://www.joysound.com/web/search/cross?keyword=メジャー)
-- [心絵](intent://navigation?naviGrpId=10150&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=心絵)
-- [さらば碧き面影](intent://navigation?naviGrpId=37092&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=さらば碧き面影)
+- [心絵](intent://navigation?naviGrpId=10150&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-2] / [検索](https://www.joysound.com/web/search/cross?keyword=心絵) / 映像DAMあり
+- [さらば碧き面影](intent://navigation?naviGrpId=37092&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=さらば碧き面影) / 映像DAMあり
 
 **時をかける少女** / [検索](https://www.joysound.com/web/search/cross?keyword=時をかける少女)
 - 変わらないもの [-3] / [検索](https://www.joysound.com/web/search/cross?keyword=変わらないもの)
@@ -799,7 +799,7 @@ title: JOY
   - [ショートバージョン](intent://navigation?naviGrpId=1156788&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / 映像両方
 - [美少女無罪パイレーツ](intent://navigation?naviGrpId=980752&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=美少女無罪パイレーツ) / 映像両方
 - [Unison](intent://navigation?naviGrpId=910880&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) / [検索](https://www.joysound.com/web/search/cross?keyword=Unison) / 映像両方
-- [I I I](intent://navigation?naviGrpId=1036069&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=I%20I%20I) / 映像両方 / [歌詞](https://qiita.com/yuusuke20030902/private/24528900fe3152d83c3c)
+- [I I I](intent://navigation?naviGrpId=1036069&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-4] / [検索](https://www.joysound.com/web/search/cross?keyword=I%20I%20I) / 映像両方 / [歌詞](https://yuusuke20030902.github.io/karaoke/text#iiiアイアイアイ)
 - [I'm Your Treasure Box](intent://navigation?naviGrpId=938006&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=I'm%20Your%20Treasure%20Box) / 映像両方
 - [幽霊船戦](intent://navigation?naviGrpId=1053893&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [-6] / [検索](https://www.joysound.com/web/search/cross?keyword=幽霊船戦) / 映像両方
 - [パイパイ仮面でどうかしらん?](intent://navigation?naviGrpId=1062615&view=songDetails&acfm=songdetail_navi_app#Intent;scheme=xgi-js-spnavi;package=jp.co.xing.spnavi;end) [0] / [検索](https://www.joysound.com/web/search/cross?keyword=パイパイ仮面でどうかしらん?) / 映像両方
