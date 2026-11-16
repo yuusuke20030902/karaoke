@@ -697,6 +697,183 @@ Loving what we do
 人々は、ロマンを追い求める。
 世はまさに、大海賊時代!
 
+# III（アイアイアイ）
+
+>作詞：Sena Kiryuin　作曲：Giga
+
+>アレンジのキー：-4　（優介の耳調べ）
+
+>上⇒　オリジナル歌詞（アレンジと同じだと省略）
+下⇒　アレンジ歌詞
+
+><font color="red">①⇒　1人目、日本語多めの人</font>
+<font color="blue">②⇒　2人目、英語多めの人</font>
+両⇒　両方
+
+***
+
+>両：はーい注目　まあ　いっちょ踊ってこうか？
+
+>両：視線牛耳ってんのは...I I I
+
+><font color="red">~~①：あれ～？君たちの声~~
+<font color="blue">②：Justen, you’re crazy for this one!
+
+><font color="red">~~①：まだ足りてないんじゃないの～？~~
+①：Huh, huh! S they ready for this one!
+
+><font color="blue">②：Our night’s just begun　Aye let’s blast it!
+
+***
+
+><font color="red">~~①：赤く火照る face　ヒートアップしちゃって絡むsweat~~
+①：赤く火照る face　ヒートアップしちゃってlight up the place
+
+><font color="red">~~①：渇いた喉潤す　オアシスよマリンブルー~~
+①：渇いた喉潤す　オアシスさマリンブルー
+
+><font color="red">~~①：あっはーん！たまらないんでしょ？（ばっきゅん♡）~~
+①：Ah-ha！たまらないんだろ？
+
+***
+
+><font color="blue">②：From shore to shore
+
+><font color="blue">~~②：My moves bring the storm to the floor~~
+②：I’m gonna get your ass on the dance floor
+
+><font color="blue">~~②：Thunder rays blast a sonic boom~~
+②：We’re taking over L.A., Miami, New York
+
+><font color="blue">~~②：I ride the beat like I’m surfing shock waves~~
+②：A slave to the rhythm and you’re ready for more　If you wanna block my shine?
+
+><font color="blue">~~②：Don’t need no sunblock~~
+②：Go get your   sunblock
+
+><font color="blue">~~②：I can make it rain ‘cause you hit the jackpot~~
+②：I can make it rain when I     hit the jackpot
+
+><font color="blue">②：Baby, get ready　If you wanna ride on with the OGs
+
+***
+
+>両：アーゥチチな二人はだぁれ？(Yeah baby)
+
+>両：Hands up ぶち上げたまえ！(Oh baby)
+
+><font color="red">①：クラッときちゃう様な　熱が足りない
+
+><font color="blue">②：Our night’s just begun　Aye let’s blast it!
+
+>両：ハジけて派手にいったーれ！(Yeah baby)
+
+>両：来世まで we wanna party(Oh baby)
+
+><font color="blue">②：All eyes on me　I can taste the high
+
+><font color="red">①：Aye まだまだ沸いてこうぜ
+
+>両：はーい注目　まあ　いっちょ踊ってこうか？
+
+>両：視線牛耳ってんのは...I I I
+
+***
+
+><font color="red">~~①：よそ見しちゃやーん~~
+①：Clear! She got the Gyatt
+
+><font color="red">~~①：マリンがbestest girlじゃん？~~
+①：Now let me see you work with all of that (AH!)
+
+><font color="red">~~①：砂の数よりも魅力がある~~
+①：Can...can you call a doctor ‘cause
+
+><font color="red">~~①：キミたちもう　ねぇ、虜でしょ？~~
+①：This baddie’s giving me a heart attack
+
+><font color="red">~~①：は？年の数程って誰か行った？~~
+①：But you know what’s scary to me
+
+><font color="red">~~①：（うふん）大人の魅力よ♡っておいゴラァ！~~
+①：Holo make girls look like Halle Barry to me
+
+><font color="red">~~①：マリンは17たい♡っておい聞けや!!~~
+①：I’m --- 2 bars from being canceled
+
+><font color="red">~~①：我慢の限界かな　とかって、きゃ♡~~
+①：So I gotta leave you ever so carefully (AH!)
+
+***
+
+><font color="blue">②：Bring in the heat that can’t be splashed away
+
+><font color="blue">②：Fishing a big catch, the stardom I deserve
+
+><font color="blue">~~②：But I’m just chilling　A mocktail Maitai, sipping~~
+②：But I’m just chilling　Courvoisier, I’m sipping
+
+><font color="blue">~~②：’Cause I got that juice　Might let you have a taste~~
+②：’Cause I got that juice　And I might let you have a taste
+
+***
+
+><font color="red">~~①：みてこのBody　Moneyでしょ、Honey~~
+①：この身体で　Let me rock your body
+
+><font color="red">~~①：秘宝な素肌ね　やん！見ないで、待って~~
+①：秘宝な素肌に　Now put that camera on me
+
+><font color="blue">②：Beside a bonfire　Our luring smoke takes you higher
+
+><font color="blue">②：ね？ We drive you crazy
+
+***
+
+><font color="red">~~①：Ahoy　熱苦しくなってこう　もうどうしようも~~
+①：Huh　熱苦しくなってこう　もうどうしようも
+
+>両：ない
+
+><font color="blue">②：My bright spotlight
+
+>両：どんどん新境地イっちゃいそ？(Oh baby)
+
+***
+
+>両：アーゥチチな二人はだぁれ？(Yeah baby)
+
+>両：Hands up ぶち上げたまえ！(Oh baby)
+
+><font color="red">①：クラッときちゃう様な　熱が足りない
+
+><font color="blue">②：Our night’s just begun　Aye let’s blast it!
+
+>両：ハジけて派手にいったーれ！(Yeah baby)
+
+>両：来世まで we wanna party(Oh baby)
+
+><font color="blue">②：All eyes on me　I can taste the high
+
+><font color="red">①：Aye まだまだ沸いてこうぜ
+
+>両：はーい注目　まあ　いっちょ踊ってこうか？
+
+>両：視線牛耳ってんのは...
+
+><font color="blue">②：Bring it back, let’s hit it One last time!
+
+***
+
+><font color="red">~~①：アタシたち、マジで最強じゃん？~~
+①：Aye 俺らさぁ、マジで最強じゃん？
+
+><font color="blue">②：Just two besties so fly!
+
+>両：Ah-ah-ah
+
+***
+
 # [コナン](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1214499117)
 
 俺は高校生探偵、工藤新一。
